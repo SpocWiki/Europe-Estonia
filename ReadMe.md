@@ -108,8 +108,8 @@ id: Estonia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Estonia//
-markerFolder: ./Estonia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Estonia] 
