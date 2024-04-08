@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.03] 
-[geo-lat::59.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.03] 
+[has_place_latitude::59.12] 
 [name::Vajangu] 
 State ::  
 Country :: [[Russia]]  

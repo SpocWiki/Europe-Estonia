@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.23] 
-[geo-lat::57.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.23] 
+[has_place_latitude::57.72] 
 [name::Yasteluene] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24] 
-[geo-lat::58.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24] 
+[has_place_latitude::58.33] 
 [name::Toestamaa] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.53] 
-[geo-lat::59.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.53] 
+[has_place_latitude::59.6] 
 [name::Naissaar] 
 [name-se::Nargö] 
 State ::  

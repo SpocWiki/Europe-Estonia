@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.33] 
-[geo-lat::58.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.33] 
+[has_place_latitude::58.1] 
 [name::Yoobsu] 
 State ::  
 Country :: [[Russia]]  

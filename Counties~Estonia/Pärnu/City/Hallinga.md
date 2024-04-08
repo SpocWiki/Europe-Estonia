@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.5] 
-[geo-lat::58.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.5] 
+[has_place_latitude::58.62] 
 [name::Hallinga] 
 State ::  
 Country :: [[Russia]]  

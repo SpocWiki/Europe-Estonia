@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.82] 
-[geo-lat::59.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.82] 
+[has_place_latitude::59.08] 
 [name::Hagudi] 
 State ::  
 Country :: [[Russia]]  

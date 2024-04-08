@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.32] 
-[geo-lat::59.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.32] 
+[has_place_latitude::59.33] 
 [name::Osmussaar] 
 State ::  
 Country :: [[Russia]]  

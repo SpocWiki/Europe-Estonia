@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.77] 
-[geo-lat::57.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.77] 
+[has_place_latitude::57.82] 
 [name::Kurenurme] 
 State ::  
 Country :: [[Russia]]  

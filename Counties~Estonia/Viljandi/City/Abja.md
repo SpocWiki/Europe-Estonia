@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.4] 
-[geo-lat::58.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.4] 
+[has_place_latitude::58.12] 
 [name::Abja] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.17] 
-[geo-lat::58.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.17] 
+[has_place_latitude::58.15] 
 [name::Husari] 
 State ::  
 Country :: [[Russia]]  

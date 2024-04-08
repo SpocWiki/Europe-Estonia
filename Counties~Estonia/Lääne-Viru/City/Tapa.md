@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.98] 
-[geo-lat::59.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.98] 
+[has_place_latitude::59.28] 
 [name::Tapa] 
 State ::  
 Country :: [[Russia]]  

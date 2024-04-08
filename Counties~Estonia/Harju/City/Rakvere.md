@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.07] 
-[geo-lat::59.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.07] 
+[has_place_latitude::59.35] 
 [name::Rakvere] 
 State ::  
 Country :: [[Russia]]  
