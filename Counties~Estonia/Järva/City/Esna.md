@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esna.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.public.md) 
+### [Esna](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.md) 
 
-### [Esna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.internal.md) 
+### [Esna.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.public.md) 
 
-### [Esna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.protect.md) 
+### [Esna.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.internal.md) 
 
-### [Esna.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.private.md) 
+### [Esna.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.protect.md) 
 
-### [Esna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.personal.md) 
+### [Esna.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.private.md) 
 
-### [Esna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityEsna.secret.md)
+### [Esna.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.personal.md) 
+
+### [Esna.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.secret.md)
 

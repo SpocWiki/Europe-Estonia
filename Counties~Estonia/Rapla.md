@@ -41,15 +41,17 @@ markerFolder: ./Rapla/
 
 ## Confidential Links & Embeds: 
 
-### [Rapla.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.public.md) 
+### [Rapla](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.md) 
 
-### [Rapla.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.internal.md) 
+### [Rapla.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.public.md) 
 
-### [Rapla.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.protect.md) 
+### [Rapla.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.internal.md) 
 
-### [Rapla.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.private.md) 
+### [Rapla.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.protect.md) 
 
-### [Rapla.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.personal.md) 
+### [Rapla.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.private.md) 
 
-### [Rapla.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaRapla.secret.md)
+### [Rapla.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.personal.md) 
+
+### [Rapla.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla.secret.md)
 

@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Suurupi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.public.md) 
+### [Suurupi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.md) 
 
-### [Suurupi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.internal.md) 
+### [Suurupi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.public.md) 
 
-### [Suurupi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.protect.md) 
+### [Suurupi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.internal.md) 
 
-### [Suurupi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.private.md) 
+### [Suurupi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.protect.md) 
 
-### [Suurupi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.personal.md) 
+### [Suurupi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.private.md) 
 
-### [Suurupi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CitySuurupi.secret.md)
+### [Suurupi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.personal.md) 
+
+### [Suurupi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.secret.md)
 

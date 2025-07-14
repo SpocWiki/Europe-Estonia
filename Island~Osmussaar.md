@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Osmussaar.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.public.md) 
+### [Island~Osmussaar](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.md) 
 
-### [Island~Osmussaar.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.internal.md) 
+### [Island~Osmussaar.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.public.md) 
 
-### [Island~Osmussaar.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.protect.md) 
+### [Island~Osmussaar.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.internal.md) 
 
-### [Island~Osmussaar.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.private.md) 
+### [Island~Osmussaar.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.protect.md) 
 
-### [Island~Osmussaar.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.personal.md) 
+### [Island~Osmussaar.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.private.md) 
 
-### [Island~Osmussaar.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.secret.md)
+### [Island~Osmussaar.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.personal.md) 
+
+### [Island~Osmussaar.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Osmussaar.secret.md)
 

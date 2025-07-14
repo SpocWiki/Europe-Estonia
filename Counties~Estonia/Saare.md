@@ -41,15 +41,17 @@ markerFolder: ./Saare/
 
 ## Confidential Links & Embeds: 
 
-### [Saare.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.public.md) 
+### [Saare](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.md) 
 
-### [Saare.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.internal.md) 
+### [Saare.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.public.md) 
 
-### [Saare.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.protect.md) 
+### [Saare.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.internal.md) 
 
-### [Saare.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.private.md) 
+### [Saare.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.protect.md) 
 
-### [Saare.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.personal.md) 
+### [Saare.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.private.md) 
 
-### [Saare.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaSaare.secret.md)
+### [Saare.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.personal.md) 
+
+### [Saare.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voldi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.public.md) 
+### [Voldi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.md) 
 
-### [Voldi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.internal.md) 
+### [Voldi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.public.md) 
 
-### [Voldi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.protect.md) 
+### [Voldi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.internal.md) 
 
-### [Voldi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.private.md) 
+### [Voldi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.protect.md) 
 
-### [Voldi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.personal.md) 
+### [Voldi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.private.md) 
 
-### [Voldi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVoldi.secret.md)
+### [Voldi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.personal.md) 
+
+### [Voldi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.secret.md)
 

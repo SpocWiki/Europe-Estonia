@@ -41,15 +41,17 @@ markerFolder: ./Ida-Viru/
 
 ## Confidential Links & Embeds: 
 
-### [Ida-Viru.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.public.md) 
+### [Ida-Viru](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.md) 
 
-### [Ida-Viru.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.internal.md) 
+### [Ida-Viru.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.public.md) 
 
-### [Ida-Viru.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.protect.md) 
+### [Ida-Viru.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.internal.md) 
 
-### [Ida-Viru.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.private.md) 
+### [Ida-Viru.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.protect.md) 
 
-### [Ida-Viru.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.personal.md) 
+### [Ida-Viru.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.private.md) 
 
-### [Ida-Viru.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaIda-Viru.secret.md)
+### [Ida-Viru.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.personal.md) 
+
+### [Ida-Viru.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru.secret.md)
 

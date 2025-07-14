@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vorbuswald.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.public.md) 
+### [Vorbuswald](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.md) 
 
-### [Vorbuswald.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.internal.md) 
+### [Vorbuswald.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.public.md) 
 
-### [Vorbuswald.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.protect.md) 
+### [Vorbuswald.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.internal.md) 
 
-### [Vorbuswald.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.private.md) 
+### [Vorbuswald.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.protect.md) 
 
-### [Vorbuswald.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.personal.md) 
+### [Vorbuswald.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.private.md) 
 
-### [Vorbuswald.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityVorbuswald.secret.md)
+### [Vorbuswald.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.personal.md) 
+
+### [Vorbuswald.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.secret.md)
 

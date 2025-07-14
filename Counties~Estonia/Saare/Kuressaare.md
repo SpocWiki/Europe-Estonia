@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuressaare.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.public.md) 
+### [Kuressaare](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.md) 
 
-### [Kuressaare.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.internal.md) 
+### [Kuressaare.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.public.md) 
 
-### [Kuressaare.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.protect.md) 
+### [Kuressaare.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.internal.md) 
 
-### [Kuressaare.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.private.md) 
+### [Kuressaare.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.protect.md) 
 
-### [Kuressaare.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.personal.md) 
+### [Kuressaare.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.private.md) 
 
-### [Kuressaare.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuressaare.secret.md)
+### [Kuressaare.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.personal.md) 
+
+### [Kuressaare.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuressaare.secret.md)
 

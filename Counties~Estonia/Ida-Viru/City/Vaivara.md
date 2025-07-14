@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaivara.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.public.md) 
+### [Vaivara](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.md) 
 
-### [Vaivara.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.internal.md) 
+### [Vaivara.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.public.md) 
 
-### [Vaivara.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.protect.md) 
+### [Vaivara.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.internal.md) 
 
-### [Vaivara.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.private.md) 
+### [Vaivara.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.protect.md) 
 
-### [Vaivara.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.personal.md) 
+### [Vaivara.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.private.md) 
 
-### [Vaivara.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.secret.md)
+### [Vaivara.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.personal.md) 
+
+### [Vaivara.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.secret.md)
 

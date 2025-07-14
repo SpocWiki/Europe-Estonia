@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/License.secret.md)
 

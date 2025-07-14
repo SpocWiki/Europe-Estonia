@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vasalemma.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.public.md) 
+### [Vasalemma](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.md) 
 
-### [Vasalemma.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.internal.md) 
+### [Vasalemma.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.public.md) 
 
-### [Vasalemma.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.protect.md) 
+### [Vasalemma.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.internal.md) 
 
-### [Vasalemma.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.private.md) 
+### [Vasalemma.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.protect.md) 
 
-### [Vasalemma.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.personal.md) 
+### [Vasalemma.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.private.md) 
 
-### [Vasalemma.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.secret.md)
+### [Vasalemma.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.personal.md) 
+
+### [Vasalemma.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.secret.md)
 

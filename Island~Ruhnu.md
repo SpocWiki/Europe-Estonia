@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Ruhnu.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.public.md) 
+### [Island~Ruhnu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.md) 
 
-### [Island~Ruhnu.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.internal.md) 
+### [Island~Ruhnu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.public.md) 
 
-### [Island~Ruhnu.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.protect.md) 
+### [Island~Ruhnu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.internal.md) 
 
-### [Island~Ruhnu.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.private.md) 
+### [Island~Ruhnu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.protect.md) 
 
-### [Island~Ruhnu.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.personal.md) 
+### [Island~Ruhnu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.private.md) 
 
-### [Island~Ruhnu.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.secret.md)
+### [Island~Ruhnu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.personal.md) 
+
+### [Island~Ruhnu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.secret.md)
 

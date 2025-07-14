@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yasteluene.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.public.md) 
+### [Yasteluene](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.md) 
 
-### [Yasteluene.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.internal.md) 
+### [Yasteluene.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.public.md) 
 
-### [Yasteluene.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.protect.md) 
+### [Yasteluene.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.internal.md) 
 
-### [Yasteluene.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.private.md) 
+### [Yasteluene.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.protect.md) 
 
-### [Yasteluene.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.personal.md) 
+### [Yasteluene.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.private.md) 
 
-### [Yasteluene.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityYasteluene.secret.md)
+### [Yasteluene.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.personal.md) 
+
+### [Yasteluene.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.secret.md)
 

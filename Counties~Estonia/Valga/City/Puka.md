@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puka.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.public.md) 
+### [Puka](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.md) 
 
-### [Puka.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.internal.md) 
+### [Puka.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.public.md) 
 
-### [Puka.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.protect.md) 
+### [Puka.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.internal.md) 
 
-### [Puka.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.private.md) 
+### [Puka.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.protect.md) 
 
-### [Puka.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.personal.md) 
+### [Puka.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.private.md) 
 
-### [Puka.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityPuka.secret.md)
+### [Puka.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.personal.md) 
+
+### [Puka.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.secret.md)
 

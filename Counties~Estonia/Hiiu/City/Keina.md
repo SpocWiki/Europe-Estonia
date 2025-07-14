@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keina.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.public.md) 
+### [Keina](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.md) 
 
-### [Keina.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.internal.md) 
+### [Keina.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.public.md) 
 
-### [Keina.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.protect.md) 
+### [Keina.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.internal.md) 
 
-### [Keina.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.private.md) 
+### [Keina.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.protect.md) 
 
-### [Keina.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.personal.md) 
+### [Keina.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.private.md) 
 
-### [Keina.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKeina.secret.md)
+### [Keina.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.personal.md) 
+
+### [Keina.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.secret.md)
 

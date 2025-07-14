@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagudi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.public.md) 
+### [Hagudi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.md) 
 
-### [Hagudi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.internal.md) 
+### [Hagudi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.public.md) 
 
-### [Hagudi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.protect.md) 
+### [Hagudi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.internal.md) 
 
-### [Hagudi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.private.md) 
+### [Hagudi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.protect.md) 
 
-### [Hagudi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.personal.md) 
+### [Hagudi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.private.md) 
 
-### [Hagudi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityHagudi.secret.md)
+### [Hagudi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.personal.md) 
+
+### [Hagudi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.secret.md)
 

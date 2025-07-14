@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Virtsu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.public.md) 
+### [Virtsu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.md) 
 
-### [Virtsu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.internal.md) 
+### [Virtsu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.public.md) 
 
-### [Virtsu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.protect.md) 
+### [Virtsu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.internal.md) 
 
-### [Virtsu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.private.md) 
+### [Virtsu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.protect.md) 
 
-### [Virtsu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.personal.md) 
+### [Virtsu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.private.md) 
 
-### [Virtsu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityVirtsu.secret.md)
+### [Virtsu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.personal.md) 
+
+### [Virtsu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Virtsu.secret.md)
 

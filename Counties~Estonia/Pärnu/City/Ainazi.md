@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ainazi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.public.md) 
+### [Ainazi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.md) 
 
-### [Ainazi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.internal.md) 
+### [Ainazi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.public.md) 
 
-### [Ainazi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.protect.md) 
+### [Ainazi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.internal.md) 
 
-### [Ainazi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.private.md) 
+### [Ainazi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.protect.md) 
 
-### [Ainazi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.personal.md) 
+### [Ainazi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.private.md) 
 
-### [Ainazi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.secret.md)
+### [Ainazi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.personal.md) 
+
+### [Ainazi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Tartu/
 
 ## Confidential Links & Embeds: 
 
-### [Tartu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.public.md) 
+### [Tartu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.md) 
 
-### [Tartu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.internal.md) 
+### [Tartu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.public.md) 
 
-### [Tartu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.protect.md) 
+### [Tartu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.internal.md) 
 
-### [Tartu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.private.md) 
+### [Tartu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.protect.md) 
 
-### [Tartu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.personal.md) 
+### [Tartu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.private.md) 
 
-### [Tartu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaTartu.secret.md)
+### [Tartu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.personal.md) 
+
+### [Tartu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu.secret.md)
 

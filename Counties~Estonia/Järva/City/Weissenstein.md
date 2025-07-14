@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weissenstein.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.public.md) 
+### [Weissenstein](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.md) 
 
-### [Weissenstein.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.internal.md) 
+### [Weissenstein.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.public.md) 
 
-### [Weissenstein.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.protect.md) 
+### [Weissenstein.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.internal.md) 
 
-### [Weissenstein.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.private.md) 
+### [Weissenstein.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.protect.md) 
 
-### [Weissenstein.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.personal.md) 
+### [Weissenstein.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.private.md) 
 
-### [Weissenstein.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityWeissenstein.secret.md)
+### [Weissenstein.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.personal.md) 
+
+### [Weissenstein.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.secret.md)
 

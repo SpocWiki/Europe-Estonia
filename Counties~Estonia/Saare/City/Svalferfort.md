@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svalferfort.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.public.md) 
+### [Svalferfort](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.md) 
 
-### [Svalferfort.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.internal.md) 
+### [Svalferfort.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.public.md) 
 
-### [Svalferfort.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.protect.md) 
+### [Svalferfort.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.internal.md) 
 
-### [Svalferfort.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.private.md) 
+### [Svalferfort.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.protect.md) 
 
-### [Svalferfort.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.personal.md) 
+### [Svalferfort.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.private.md) 
 
-### [Svalferfort.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CitySvalferfort.secret.md)
+### [Svalferfort.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.personal.md) 
+
+### [Svalferfort.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.secret.md)
 

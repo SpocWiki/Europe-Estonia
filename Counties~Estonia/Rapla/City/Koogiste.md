@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koogiste.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.public.md) 
+### [Koogiste](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.md) 
 
-### [Koogiste.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.internal.md) 
+### [Koogiste.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.public.md) 
 
-### [Koogiste.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.protect.md) 
+### [Koogiste.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.internal.md) 
 
-### [Koogiste.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.private.md) 
+### [Koogiste.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.protect.md) 
 
-### [Koogiste.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.personal.md) 
+### [Koogiste.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.private.md) 
 
-### [Koogiste.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Rapla\CityKoogiste.secret.md)
+### [Koogiste.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.personal.md) 
+
+### [Koogiste.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Hiiu/
 
 ## Confidential Links & Embeds: 
 
-### [Hiiu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.public.md) 
+### [Hiiu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.md) 
 
-### [Hiiu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.internal.md) 
+### [Hiiu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.public.md) 
 
-### [Hiiu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.protect.md) 
+### [Hiiu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.internal.md) 
 
-### [Hiiu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.private.md) 
+### [Hiiu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.protect.md) 
 
-### [Hiiu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.personal.md) 
+### [Hiiu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.private.md) 
 
-### [Hiiu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHiiu.secret.md)
+### [Hiiu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.personal.md) 
+
+### [Hiiu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yoobsu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.public.md) 
+### [Yoobsu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.md) 
 
-### [Yoobsu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.internal.md) 
+### [Yoobsu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.public.md) 
 
-### [Yoobsu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.protect.md) 
+### [Yoobsu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.internal.md) 
 
-### [Yoobsu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.private.md) 
+### [Yoobsu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.protect.md) 
 
-### [Yoobsu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.personal.md) 
+### [Yoobsu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.private.md) 
 
-### [Yoobsu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityYoobsu.secret.md)
+### [Yoobsu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.personal.md) 
+
+### [Yoobsu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Yoobsu.secret.md)
 

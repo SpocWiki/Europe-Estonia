@@ -41,15 +41,17 @@ markerFolder: ./Võru/
 
 ## Confidential Links & Embeds: 
 
-### [Võru.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.public.md) 
+### [Võru](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.md) 
 
-### [Võru.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.internal.md) 
+### [Võru.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.public.md) 
 
-### [Võru.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.protect.md) 
+### [Võru.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.internal.md) 
 
-### [Võru.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.private.md) 
+### [Võru.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.protect.md) 
 
-### [Võru.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.personal.md) 
+### [Võru.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.private.md) 
 
-### [Võru.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaVõru.secret.md)
+### [Võru.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.personal.md) 
+
+### [Võru.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.secret.md)
 

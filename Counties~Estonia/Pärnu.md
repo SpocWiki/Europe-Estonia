@@ -41,15 +41,17 @@ markerFolder: ./Pärnu/
 
 ## Confidential Links & Embeds: 
 
-### [Pärnu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.public.md) 
+### [Pärnu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.md) 
 
-### [Pärnu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.internal.md) 
+### [Pärnu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.public.md) 
 
-### [Pärnu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.protect.md) 
+### [Pärnu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.internal.md) 
 
-### [Pärnu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.private.md) 
+### [Pärnu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.protect.md) 
 
-### [Pärnu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.personal.md) 
+### [Pärnu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.private.md) 
 
-### [Pärnu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPärnu.secret.md)
+### [Pärnu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.personal.md) 
+
+### [Pärnu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu.secret.md)
 

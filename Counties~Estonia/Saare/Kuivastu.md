@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuivastu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.public.md) 
+### [Kuivastu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.md) 
 
-### [Kuivastu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.internal.md) 
+### [Kuivastu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.public.md) 
 
-### [Kuivastu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.protect.md) 
+### [Kuivastu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.internal.md) 
 
-### [Kuivastu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.private.md) 
+### [Kuivastu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.protect.md) 
 
-### [Kuivastu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.personal.md) 
+### [Kuivastu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.private.md) 
 
-### [Kuivastu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.secret.md)
+### [Kuivastu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.personal.md) 
+
+### [Kuivastu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/Kuivastu.secret.md)
 

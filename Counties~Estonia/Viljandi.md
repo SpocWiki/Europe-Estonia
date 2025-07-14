@@ -41,15 +41,17 @@ markerFolder: ./Viljandi/
 
 ## Confidential Links & Embeds: 
 
-### [Viljandi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.public.md) 
+### [Viljandi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.md) 
 
-### [Viljandi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.internal.md) 
+### [Viljandi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.public.md) 
 
-### [Viljandi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.protect.md) 
+### [Viljandi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.internal.md) 
 
-### [Viljandi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.private.md) 
+### [Viljandi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.protect.md) 
 
-### [Viljandi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.personal.md) 
+### [Viljandi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.private.md) 
 
-### [Viljandi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaViljandi.secret.md)
+### [Viljandi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.personal.md) 
+
+### [Viljandi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi.secret.md)
 

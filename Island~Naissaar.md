@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Naissaar.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.public.md) 
+### [Island~Naissaar](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.md) 
 
-### [Island~Naissaar.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.internal.md) 
+### [Island~Naissaar.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.public.md) 
 
-### [Island~Naissaar.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.protect.md) 
+### [Island~Naissaar.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.internal.md) 
 
-### [Island~Naissaar.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.private.md) 
+### [Island~Naissaar.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.protect.md) 
 
-### [Island~Naissaar.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.personal.md) 
+### [Island~Naissaar.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.private.md) 
 
-### [Island~Naissaar.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.secret.md)
+### [Island~Naissaar.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.personal.md) 
+
+### [Island~Naissaar.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.secret.md)
 

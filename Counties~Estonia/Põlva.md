@@ -41,15 +41,17 @@ markerFolder: ./Põlva/
 
 ## Confidential Links & Embeds: 
 
-### [Põlva.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.public.md) 
+### [Põlva](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.md) 
 
-### [Põlva.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.internal.md) 
+### [Põlva.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.public.md) 
 
-### [Põlva.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.protect.md) 
+### [Põlva.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.internal.md) 
 
-### [Põlva.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.private.md) 
+### [Põlva.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.protect.md) 
 
-### [Põlva.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.personal.md) 
+### [Põlva.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.private.md) 
 
-### [Põlva.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaPõlva.secret.md)
+### [Põlva.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.personal.md) 
+
+### [Põlva.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.secret.md)
 

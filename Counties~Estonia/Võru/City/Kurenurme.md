@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kurenurme.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.public.md) 
+### [Kurenurme](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.md) 
 
-### [Kurenurme.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.internal.md) 
+### [Kurenurme.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.public.md) 
 
-### [Kurenurme.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.protect.md) 
+### [Kurenurme.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.internal.md) 
 
-### [Kurenurme.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.private.md) 
+### [Kurenurme.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.protect.md) 
 
-### [Kurenurme.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.personal.md) 
+### [Kurenurme.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.private.md) 
 
-### [Kurenurme.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityKurenurme.secret.md)
+### [Kurenurme.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.personal.md) 
+
+### [Kurenurme.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.secret.md)
 

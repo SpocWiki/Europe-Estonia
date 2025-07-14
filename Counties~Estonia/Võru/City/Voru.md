@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voru.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.public.md) 
+### [Voru](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.md) 
 
-### [Voru.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.internal.md) 
+### [Voru.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.public.md) 
 
-### [Voru.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.protect.md) 
+### [Voru.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.internal.md) 
 
-### [Voru.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.private.md) 
+### [Voru.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.protect.md) 
 
-### [Voru.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.personal.md) 
+### [Voru.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.private.md) 
 
-### [Voru.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.secret.md)
+### [Voru.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.personal.md) 
+
+### [Voru.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Voru.secret.md)
 

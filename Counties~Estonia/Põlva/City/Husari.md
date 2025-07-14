@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Husari.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.public.md) 
+### [Husari](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.md) 
 
-### [Husari.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.internal.md) 
+### [Husari.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.public.md) 
 
-### [Husari.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.protect.md) 
+### [Husari.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.internal.md) 
 
-### [Husari.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.private.md) 
+### [Husari.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.protect.md) 
 
-### [Husari.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.personal.md) 
+### [Husari.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.private.md) 
 
-### [Husari.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Põlva\CityHusari.secret.md)
+### [Husari.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.personal.md) 
+
+### [Husari.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Husari.secret.md)
 
