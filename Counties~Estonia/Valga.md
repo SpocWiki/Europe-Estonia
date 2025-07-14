@@ -40,11 +40,16 @@ markerFolder: ./Valga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga|Valga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.public|Valga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.internal|Valga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.protect|Valga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.private|Valga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.personal|Valga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.secret|Valga.secret]] 
+
+### [Valga.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.public.md) 
+
+### [Valga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.internal.md) 
+
+### [Valga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.protect.md) 
+
+### [Valga.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.private.md) 
+
+### [Valga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.personal.md) 
+
+### [Valga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaValga.secret.md)
 

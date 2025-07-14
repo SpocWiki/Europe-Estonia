@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Island~Osmussaar|Island~Osmussaar]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Osmussaar.internal|Osmussaar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Osmussaar.protect|Osmussaar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Osmussaar.private|Osmussaar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Osmussaar.personal|Osmussaar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Osmussaar.secret|Osmussaar.secret]] 
+
+### [Island~Osmussaar.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.public.md) 
+
+### [Island~Osmussaar.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.internal.md) 
+
+### [Island~Osmussaar.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.protect.md) 
+
+### [Island~Osmussaar.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.private.md) 
+
+### [Island~Osmussaar.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.personal.md) 
+
+### [Island~Osmussaar.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Osmussaar.secret.md)
+

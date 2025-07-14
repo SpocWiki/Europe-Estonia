@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Hapsal|Hapsal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.public|Hapsal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.internal|Hapsal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.protect|Hapsal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.private|Hapsal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.personal|Hapsal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Hapsal.secret|Hapsal.secret]] 
+
+### [Hapsal.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.public.md) 
+
+### [Hapsal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.internal.md) 
+
+### [Hapsal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.protect.md) 
+
+### [Hapsal.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.private.md) 
+
+### [Hapsal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.personal.md) 
+
+### [Hapsal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne\CityHapsal.secret.md)
+

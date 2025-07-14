@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve|Uneloeve]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.public|Uneloeve.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.internal|Uneloeve.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.protect|Uneloeve.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.private|Uneloeve.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.personal|Uneloeve.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Uneloeve.secret|Uneloeve.secret]] 
+
+### [Uneloeve.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.public.md) 
+
+### [Uneloeve.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.internal.md) 
+
+### [Uneloeve.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.protect.md) 
+
+### [Uneloeve.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.private.md) 
+
+### [Uneloeve.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.personal.md) 
+
+### [Uneloeve.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityUneloeve.secret.md)
+

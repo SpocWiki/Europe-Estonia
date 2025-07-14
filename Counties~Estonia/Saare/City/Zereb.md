@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Zereb|Zereb]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Zereb.public|Zereb.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Zereb.internal|Zereb.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Zereb.protect|Zereb.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Zereb.private|Zereb.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Zereb.personal|Zereb.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Zereb.secret|Zereb.secret]] 
+
+### [Zereb.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.public.md) 
+
+### [Zereb.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.internal.md) 
+
+### [Zereb.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.protect.md) 
+
+### [Zereb.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.private.md) 
+
+### [Zereb.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.personal.md) 
+
+### [Zereb.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityZereb.secret.md)
+

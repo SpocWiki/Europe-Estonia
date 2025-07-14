@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Rakvere|Rakvere]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.public|Rakvere.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.internal|Rakvere.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.protect|Rakvere.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.private|Rakvere.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.personal|Rakvere.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Rakvere.secret|Rakvere.secret]] 
+
+### [Rakvere.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.public.md) 
+
+### [Rakvere.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.internal.md) 
+
+### [Rakvere.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.protect.md) 
+
+### [Rakvere.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.private.md) 
+
+### [Rakvere.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.personal.md) 
+
+### [Rakvere.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityRakvere.secret.md)
+

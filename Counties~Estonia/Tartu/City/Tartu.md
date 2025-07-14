@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Tartu|Tartu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Tartu.public|Tartu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Tartu.internal|Tartu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Tartu.protect|Tartu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Tartu.private|Tartu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Tartu.personal|Tartu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Tartu.secret|Tartu.secret]] 
+
+### [Tartu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.public.md) 
+
+### [Tartu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.internal.md) 
+
+### [Tartu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.protect.md) 
+
+### [Tartu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.private.md) 
+
+### [Tartu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.personal.md) 
+
+### [Tartu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityTartu.secret.md)
+

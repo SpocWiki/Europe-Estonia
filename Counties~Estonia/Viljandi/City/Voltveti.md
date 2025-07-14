@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Voltveti|Voltveti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.public|Voltveti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.internal|Voltveti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.protect|Voltveti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.private|Voltveti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.personal|Voltveti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Voltveti.secret|Voltveti.secret]] 
+
+### [Voltveti.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.public.md) 
+
+### [Voltveti.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.internal.md) 
+
+### [Voltveti.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.protect.md) 
+
+### [Voltveti.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.private.md) 
+
+### [Voltveti.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.personal.md) 
+
+### [Voltveti.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityVoltveti.secret.md)
+

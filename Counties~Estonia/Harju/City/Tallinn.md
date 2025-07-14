@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn|Tallinn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.public|Tallinn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.internal|Tallinn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.protect|Tallinn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.private|Tallinn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.personal|Tallinn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.secret|Tallinn.secret]] 
+
+### [Tallinn.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.public.md) 
+
+### [Tallinn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.internal.md) 
+
+### [Tallinn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.protect.md) 
+
+### [Tallinn.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.private.md) 
+
+### [Tallinn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.personal.md) 
+
+### [Tallinn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityTallinn.secret.md)
+

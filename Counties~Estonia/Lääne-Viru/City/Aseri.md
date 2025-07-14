@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Aseri|Aseri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Aseri.public|Aseri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Aseri.internal|Aseri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Aseri.protect|Aseri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Aseri.private|Aseri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Aseri.personal|Aseri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Aseri.secret|Aseri.secret]] 
+
+### [Aseri.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.public.md) 
+
+### [Aseri.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.internal.md) 
+
+### [Aseri.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.protect.md) 
+
+### [Aseri.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.private.md) 
+
+### [Aseri.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.personal.md) 
+
+### [Aseri.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityAseri.secret.md)
+

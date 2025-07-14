@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vajangu|Vajangu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.public|Vajangu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.internal|Vajangu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.protect|Vajangu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.private|Vajangu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.personal|Vajangu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vajangu.secret|Vajangu.secret]] 
+
+### [Vajangu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.public.md) 
+
+### [Vajangu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.internal.md) 
+
+### [Vajangu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.protect.md) 
+
+### [Vajangu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.private.md) 
+
+### [Vajangu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.personal.md) 
+
+### [Vajangu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityVajangu.secret.md)
+

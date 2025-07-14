@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma|Vasalemma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.public|Vasalemma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.internal|Vasalemma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.protect|Vasalemma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.private|Vasalemma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.personal|Vasalemma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vasalemma.secret|Vasalemma.secret]] 
+
+### [Vasalemma.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.public.md) 
+
+### [Vasalemma.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.internal.md) 
+
+### [Vasalemma.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.protect.md) 
+
+### [Vasalemma.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.private.md) 
+
+### [Vasalemma.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.personal.md) 
+
+### [Vasalemma.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityVasalemma.secret.md)
+

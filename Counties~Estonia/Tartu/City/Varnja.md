@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Varnja|Varnja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Varnja.public|Varnja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Varnja.internal|Varnja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Varnja.protect|Varnja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Varnja.private|Varnja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Varnja.personal|Varnja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Varnja.secret|Varnja.secret]] 
+
+### [Varnja.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.public.md) 
+
+### [Varnja.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.internal.md) 
+
+### [Varnja.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.protect.md) 
+
+### [Varnja.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.private.md) 
+
+### [Varnja.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.personal.md) 
+
+### [Varnja.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityVarnja.secret.md)
+

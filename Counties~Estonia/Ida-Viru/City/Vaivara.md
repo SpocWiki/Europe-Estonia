@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vaivara|Vaivara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.public|Vaivara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.internal|Vaivara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.protect|Vaivara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.private|Vaivara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.personal|Vaivara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.secret|Vaivara.secret]] 
+
+### [Vaivara.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.public.md) 
+
+### [Vaivara.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.internal.md) 
+
+### [Vaivara.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.protect.md) 
+
+### [Vaivara.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.private.md) 
+
+### [Vaivara.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.personal.md) 
+
+### [Vaivara.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Ida-Viru\CityVaivara.secret.md)
+

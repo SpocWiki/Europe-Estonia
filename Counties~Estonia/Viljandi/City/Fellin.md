@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Fellin|Fellin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Fellin.public|Fellin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Fellin.internal|Fellin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Fellin.protect|Fellin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Fellin.private|Fellin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Fellin.personal|Fellin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Fellin.secret|Fellin.secret]] 
+
+### [Fellin.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.public.md) 
+
+### [Fellin.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.internal.md) 
+
+### [Fellin.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.protect.md) 
+
+### [Fellin.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.private.md) 
+
+### [Fellin.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.personal.md) 
+
+### [Fellin.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityFellin.secret.md)
+

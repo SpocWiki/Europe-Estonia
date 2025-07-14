@@ -128,12 +128,17 @@ Capital :: [[Tallinn]]
 [has_place_latitude::59.4167] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia|Estonia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Estonia.public|Estonia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia.protect|Estonia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Estonia.private|Estonia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaReadMe.secret.md)
+

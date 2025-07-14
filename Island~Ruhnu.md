@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Island~Ruhnu|Island~Ruhnu]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Runoe.internal|Runoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Runoe.protect|Runoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Runoe.private|Runoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Runoe.personal|Runoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Runoe.secret|Runoe.secret]] 
+
+### [Island~Ruhnu.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.public.md) 
+
+### [Island~Ruhnu.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.internal.md) 
+
+### [Island~Ruhnu.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.protect.md) 
+
+### [Island~Ruhnu.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.private.md) 
+
+### [Island~Ruhnu.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.personal.md) 
+
+### [Island~Ruhnu.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Ruhnu.secret.md)
+

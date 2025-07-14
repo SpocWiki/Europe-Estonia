@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Udriku|Udriku]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Udriku.public|Udriku.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Udriku.internal|Udriku.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Udriku.protect|Udriku.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Udriku.private|Udriku.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Udriku.personal|Udriku.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Udriku.secret|Udriku.secret]] 
+
+### [Udriku.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.public.md) 
+
+### [Udriku.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.internal.md) 
+
+### [Udriku.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.protect.md) 
+
+### [Udriku.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.private.md) 
+
+### [Udriku.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.personal.md) 
+
+### [Udriku.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityUdriku.secret.md)
+

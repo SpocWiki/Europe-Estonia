@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa|Toestamaa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.public|Toestamaa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.internal|Toestamaa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.protect|Toestamaa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.private|Toestamaa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.personal|Toestamaa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Toestamaa.secret|Toestamaa.secret]] 
+
+### [Toestamaa.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.public.md) 
+
+### [Toestamaa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.internal.md) 
+
+### [Toestamaa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.protect.md) 
+
+### [Toestamaa.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.private.md) 
+
+### [Toestamaa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.personal.md) 
+
+### [Toestamaa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityToestamaa.secret.md)
+

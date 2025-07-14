@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Dorpat|Dorpat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.public|Dorpat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.internal|Dorpat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.protect|Dorpat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.private|Dorpat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.personal|Dorpat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Dorpat.secret|Dorpat.secret]] 
+
+### [Dorpat.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.public.md) 
+
+### [Dorpat.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.internal.md) 
+
+### [Dorpat.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.protect.md) 
+
+### [Dorpat.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.private.md) 
+
+### [Dorpat.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.personal.md) 
+
+### [Dorpat.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Tartu\CityDorpat.secret.md)
+

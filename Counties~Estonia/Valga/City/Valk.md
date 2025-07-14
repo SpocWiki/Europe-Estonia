@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Valk|Valk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Valk.public|Valk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Valk.internal|Valk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Valk.protect|Valk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Valk.private|Valk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Valk.personal|Valk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Valk.secret|Valk.secret]] 
+
+### [Valk.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.public.md) 
+
+### [Valk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.internal.md) 
+
+### [Valk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.protect.md) 
+
+### [Valk.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.private.md) 
+
+### [Valk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.personal.md) 
+
+### [Valk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Valga\CityValk.secret.md)
+

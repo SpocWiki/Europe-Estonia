@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vodja|Vodja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vodja.public|Vodja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vodja.internal|Vodja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vodja.protect|Vodja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vodja.private|Vodja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vodja.personal|Vodja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vodja.secret|Vodja.secret]] 
+
+### [Vodja.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.public.md) 
+
+### [Vodja.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.internal.md) 
+
+### [Vodja.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.protect.md) 
+
+### [Vodja.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.private.md) 
+
+### [Vodja.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.personal.md) 
+
+### [Vodja.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityVodja.secret.md)
+

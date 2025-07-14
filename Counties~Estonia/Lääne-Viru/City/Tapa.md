@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Tapa|Tapa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Tapa.public|Tapa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Tapa.internal|Tapa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Tapa.protect|Tapa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Tapa.private|Tapa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Tapa.personal|Tapa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Tapa.secret|Tapa.secret]] 
+
+### [Tapa.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.public.md) 
+
+### [Tapa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.internal.md) 
+
+### [Tapa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.protect.md) 
+
+### [Tapa.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.private.md) 
+
+### [Tapa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.personal.md) 
+
+### [Tapa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTapa.secret.md)
+

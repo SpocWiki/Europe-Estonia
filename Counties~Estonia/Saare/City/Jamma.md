@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jamma|Jamma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jamma.public|Jamma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jamma.internal|Jamma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jamma.protect|Jamma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jamma.private|Jamma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jamma.personal|Jamma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jamma.secret|Jamma.secret]] 
+
+### [Jamma.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.public.md) 
+
+### [Jamma.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.internal.md) 
+
+### [Jamma.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.protect.md) 
+
+### [Jamma.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.private.md) 
+
+### [Jamma.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.personal.md) 
+
+### [Jamma.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityJamma.secret.md)
+

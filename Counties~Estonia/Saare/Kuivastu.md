@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu|Kuivastu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.public|Kuivastu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.internal|Kuivastu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.protect|Kuivastu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.private|Kuivastu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.personal|Kuivastu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kuivastu.secret|Kuivastu.secret]] 
+
+### [Kuivastu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.public.md) 
+
+### [Kuivastu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.internal.md) 
+
+### [Kuivastu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.protect.md) 
+
+### [Kuivastu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.private.md) 
+
+### [Kuivastu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.personal.md) 
+
+### [Kuivastu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\SaareKuivastu.secret.md)
+

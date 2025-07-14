@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Hallinga|Hallinga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.public|Hallinga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.internal|Hallinga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.protect|Hallinga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.private|Hallinga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.personal|Hallinga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Hallinga.secret|Hallinga.secret]] 
+
+### [Hallinga.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.public.md) 
+
+### [Hallinga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.internal.md) 
+
+### [Hallinga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.protect.md) 
+
+### [Hallinga.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.private.md) 
+
+### [Hallinga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.personal.md) 
+
+### [Hallinga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityHallinga.secret.md)
+

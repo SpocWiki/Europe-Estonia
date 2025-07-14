@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Abja|Abja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Abja.public|Abja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Abja.internal|Abja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Abja.protect|Abja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Abja.private|Abja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Abja.personal|Abja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Abja.secret|Abja.secret]] 
+
+### [Abja.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.public.md) 
+
+### [Abja.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.internal.md) 
+
+### [Abja.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.protect.md) 
+
+### [Abja.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.private.md) 
+
+### [Abja.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.personal.md) 
+
+### [Abja.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Viljandi\CityAbja.secret.md)
+

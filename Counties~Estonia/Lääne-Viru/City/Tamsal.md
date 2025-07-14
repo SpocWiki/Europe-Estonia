@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Tamsal|Tamsal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.public|Tamsal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.internal|Tamsal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.protect|Tamsal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.private|Tamsal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.personal|Tamsal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Tamsal.secret|Tamsal.secret]] 
+
+### [Tamsal.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.public.md) 
+
+### [Tamsal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.internal.md) 
+
+### [Tamsal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.protect.md) 
+
+### [Tamsal.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.private.md) 
+
+### [Tamsal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.personal.md) 
+
+### [Tamsal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Lääne-Viru\CityTamsal.secret.md)
+

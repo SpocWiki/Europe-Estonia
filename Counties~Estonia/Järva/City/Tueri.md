@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Tueri|Tueri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Tueri.public|Tueri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Tueri.internal|Tueri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Tueri.protect|Tueri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Tueri.private|Tueri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Tueri.personal|Tueri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Tueri.secret|Tueri.secret]] 
+
+### [Tueri.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.public.md) 
+
+### [Tueri.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.internal.md) 
+
+### [Tueri.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.protect.md) 
+
+### [Tueri.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.private.md) 
+
+### [Tueri.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.personal.md) 
+
+### [Tueri.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Järva\CityTueri.secret.md)
+

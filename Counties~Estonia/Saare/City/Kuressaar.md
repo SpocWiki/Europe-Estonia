@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar|Kuressaar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.public|Kuressaar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.internal|Kuressaar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.protect|Kuressaar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.private|Kuressaar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.personal|Kuressaar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kuressaar.secret|Kuressaar.secret]] 
+
+### [Kuressaar.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.public.md) 
+
+### [Kuressaar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.internal.md) 
+
+### [Kuressaar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.protect.md) 
+
+### [Kuressaar.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.private.md) 
+
+### [Kuressaar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.personal.md) 
+
+### [Kuressaar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Saare\CityKuressaar.secret.md)
+

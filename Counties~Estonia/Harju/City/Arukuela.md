@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Arukuela|Arukuela]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.public|Arukuela.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.internal|Arukuela.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.protect|Arukuela.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.private|Arukuela.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.personal|Arukuela.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Arukuela.secret|Arukuela.secret]] 
+
+### [Arukuela.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.public.md) 
+
+### [Arukuela.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.internal.md) 
+
+### [Arukuela.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.protect.md) 
+
+### [Arukuela.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.private.md) 
+
+### [Arukuela.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.personal.md) 
+
+### [Arukuela.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityArukuela.secret.md)
+

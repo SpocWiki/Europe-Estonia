@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Baltischki|Baltischki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.public|Baltischki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.internal|Baltischki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.protect|Baltischki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.private|Baltischki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.personal|Baltischki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Baltischki.secret|Baltischki.secret]] 
+
+### [Baltischki.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.public.md) 
+
+### [Baltischki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.internal.md) 
+
+### [Baltischki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.protect.md) 
+
+### [Baltischki.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.private.md) 
+
+### [Baltischki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.personal.md) 
+
+### [Baltischki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityBaltischki.secret.md)
+

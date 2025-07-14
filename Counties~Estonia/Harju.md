@@ -40,11 +40,16 @@ markerFolder: ./Harju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju|Harju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.public|Harju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.internal|Harju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.protect|Harju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.private|Harju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.personal|Harju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Harju.secret|Harju.secret]] 
+
+### [Harju.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.public.md) 
+
+### [Harju.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.internal.md) 
+
+### [Harju.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.protect.md) 
+
+### [Harju.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.private.md) 
+
+### [Harju.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.personal.md) 
+
+### [Harju.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~EstoniaHarju.secret.md)
 

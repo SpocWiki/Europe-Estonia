@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Pernau|Pernau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Pernau.public|Pernau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Pernau.internal|Pernau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Pernau.protect|Pernau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Pernau.private|Pernau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Pernau.personal|Pernau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Pernau.secret|Pernau.secret]] 
+
+### [Pernau.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.public.md) 
+
+### [Pernau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.internal.md) 
+
+### [Pernau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.protect.md) 
+
+### [Pernau.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.private.md) 
+
+### [Pernau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.personal.md) 
+
+### [Pernau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityPernau.secret.md)
+

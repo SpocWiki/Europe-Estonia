@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama|Vaskraeama]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.public|Vaskraeama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.internal|Vaskraeama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.protect|Vaskraeama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.private|Vaskraeama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.personal|Vaskraeama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vaskraeama.secret|Vaskraeama.secret]] 
+
+### [Vaskraeama.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.public.md) 
+
+### [Vaskraeama.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.internal.md) 
+
+### [Vaskraeama.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.protect.md) 
+
+### [Vaskraeama.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.private.md) 
+
+### [Vaskraeama.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.personal.md) 
+
+### [Vaskraeama.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityVaskraeama.secret.md)
+

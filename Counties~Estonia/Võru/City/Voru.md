@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Voru|Voru]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Voru.public|Voru.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Voru.internal|Voru.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Voru.protect|Voru.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Voru.private|Voru.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Voru.personal|Voru.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Voru.secret|Voru.secret]] 
+
+### [Voru.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.public.md) 
+
+### [Voru.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.internal.md) 
+
+### [Voru.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.protect.md) 
+
+### [Voru.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.private.md) 
+
+### [Voru.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.personal.md) 
+
+### [Voru.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Võru\CityVoru.secret.md)
+

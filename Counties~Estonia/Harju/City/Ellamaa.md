@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa|Ellamaa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.public|Ellamaa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.internal|Ellamaa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.protect|Ellamaa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.private|Ellamaa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.personal|Ellamaa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ellamaa.secret|Ellamaa.secret]] 
+
+### [Ellamaa.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.public.md) 
+
+### [Ellamaa.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.internal.md) 
+
+### [Ellamaa.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.protect.md) 
+
+### [Ellamaa.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.private.md) 
+
+### [Ellamaa.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.personal.md) 
+
+### [Ellamaa.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Harju\CityEllamaa.secret.md)
+

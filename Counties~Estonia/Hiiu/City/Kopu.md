@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kopu|Kopu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kopu.public|Kopu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kopu.internal|Kopu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kopu.protect|Kopu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kopu.private|Kopu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kopu.personal|Kopu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kopu.secret|Kopu.secret]] 
+
+### [Kopu.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.public.md) 
+
+### [Kopu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.internal.md) 
+
+### [Kopu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.protect.md) 
+
+### [Kopu.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.private.md) 
+
+### [Kopu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.personal.md) 
+
+### [Kopu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Hiiu\CityKopu.secret.md)
+

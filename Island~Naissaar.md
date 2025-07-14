@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Island~Naissaar|Island~Naissaar]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Nargoe.internal|Nargoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Nargoe.protect|Nargoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Nargoe.private|Nargoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Nargoe.personal|Nargoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Nargoe.secret|Nargoe.secret]] 
+
+### [Island~Naissaar.public](/_public/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.public.md) 
+
+### [Island~Naissaar.internal](/_internal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.internal.md) 
+
+### [Island~Naissaar.protect](/_protect/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.protect.md) 
+
+### [Island~Naissaar.private](/_private/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.private.md) 
+
+### [Island~Naissaar.personal](/_personal/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.personal.md) 
+
+### [Island~Naissaar.secret](/_secret/\Earth\Continent\Europe\Europe~North\EstoniaIsland~Naissaar.secret.md)
+

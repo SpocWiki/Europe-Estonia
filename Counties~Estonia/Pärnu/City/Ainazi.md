@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ainazi|Ainazi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.public|Ainazi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.internal|Ainazi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.protect|Ainazi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.private|Ainazi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.personal|Ainazi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ainazi.secret|Ainazi.secret]] 
+
+### [Ainazi.public](/_public/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.public.md) 
+
+### [Ainazi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.internal.md) 
+
+### [Ainazi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.protect.md) 
+
+### [Ainazi.private](/_private/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.private.md) 
+
+### [Ainazi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.personal.md) 
+
+### [Ainazi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Estonia\Counties~Estonia\Pärnu\CityAinazi.secret.md)
+
