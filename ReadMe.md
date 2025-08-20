@@ -1,36 +1,37 @@
 ---
 location:
-- 59.4167
-- 24.75
+  - 59.4167
+  - 24.75
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26885
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Estonia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Estonia
-- Estonie
-- إستونيا
-- 爱沙尼亚
-- Эстония
-- the Republic of Estonia
-- la República de Estonia
+  - Estonia
+  - Estonie
+  - إستونيا
+  - 爱沙尼亚
+  - Эстония
+  - the Republic of Estonia
+  - la República de Estonia
 Languages:
-- et
-- ru
+  - et
+  - ru
 ---
 
 

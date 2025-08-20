@@ -1,30 +1,29 @@
 ---
-location: [ 59.2 , 27.4 ] 
+location:
+  - 59.2
+  - 27.4
 type: geo-Region
 title: Ida-Viru
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Ida-Viru
-
+  - Ida-Viru
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Ida-Viru
