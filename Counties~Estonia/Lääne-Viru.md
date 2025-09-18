@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lääne-Viru
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lääne-Viru/
 markerFolder: ./Lääne-Viru/

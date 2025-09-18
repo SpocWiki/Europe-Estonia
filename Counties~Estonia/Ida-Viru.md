@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ida-Viru
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ida-Viru/
 markerFolder: ./Ida-Viru/
