@@ -22,7 +22,7 @@ State ::
 Country :: [[Estonia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
