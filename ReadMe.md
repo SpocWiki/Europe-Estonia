@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Estonia
+  - Estonie
+  - إستونيا
+  - 爱沙尼亚
+  - Эстония
+  - the Republic of Estonia
+  - la República de Estonia
+  - ReadMe
 location:
   - 59.4167
   - 24.75
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Estonia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Estonia
-  - Estonie
-  - إستونيا
-  - 爱沙尼亚
-  - Эстония
-  - the Republic of Estonia
-  - la República de Estonia
+publishDate: ''
+expiryDate: ''
 Languages:
   - et
   - ru

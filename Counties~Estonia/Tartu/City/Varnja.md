@@ -1,16 +1,19 @@
 ---
-location: [58.38,27.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Varnja
+location:
+  - 58.38
+  - 27.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35215
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

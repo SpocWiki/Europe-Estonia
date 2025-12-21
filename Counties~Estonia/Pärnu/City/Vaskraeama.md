@@ -1,16 +1,19 @@
 ---
-location: [58.33,24.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vaskraeama
+location:
+  - 58.33
+  - 24.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35219
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

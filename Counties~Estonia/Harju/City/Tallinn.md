@@ -1,6 +1,7 @@
 ---
 aliases:
   - Reval
+  - Tallinn
 has_id_wikidata: Q1770
 location:
   - 59.41667

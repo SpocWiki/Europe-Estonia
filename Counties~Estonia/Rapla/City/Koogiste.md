@@ -1,16 +1,19 @@
 ---
-location: [58.78,24.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Koogiste
+location:
+  - 58.78
+  - 24.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31563
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [58.25,22.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kuressaar
+location:
+  - 58.25
+  - 22.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31702
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

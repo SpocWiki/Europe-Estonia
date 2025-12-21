@@ -1,16 +1,19 @@
 ---
-location: [58.83,25.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tueri
+location:
+  - 58.83
+  - 25.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35078
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
