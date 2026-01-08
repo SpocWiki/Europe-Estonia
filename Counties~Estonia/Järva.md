@@ -40,17 +40,17 @@ markerFolder: ./Järva/
 
 ## Confidential Links & Embeds: 
 
-### [Järva](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva|Järva]] 
 
-### [Järva.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.public|Järva.public]] 
 
-### [Järva.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.internal|Järva.internal]] 
 
-### [Järva.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.protect|Järva.protect]] 
 
-### [Järva.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.private|Järva.private]] 
 
-### [Järva.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.personal|Järva.personal]] 
 
-### [Järva.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva.secret|Järva.secret]] 
 

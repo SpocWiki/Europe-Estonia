@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31702
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.48
+dv_has_place_latitude: 58.25
+dv_name: Kuressaar
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.48] 
-[has_place_latitude::58.25] 
-[name::Kuressaar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuressaar](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar|Kuressaar]] 
 
-### [Kuressaar.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.public|Kuressaar.public]] 
 
-### [Kuressaar.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.internal|Kuressaar.internal]] 
 
-### [Kuressaar.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.protect|Kuressaar.protect]] 
 
-### [Kuressaar.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.private|Kuressaar.private]] 
 
-### [Kuressaar.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.personal|Kuressaar.personal]] 
 
-### [Kuressaar.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Kuressaar.secret|Kuressaar.secret]] 
 

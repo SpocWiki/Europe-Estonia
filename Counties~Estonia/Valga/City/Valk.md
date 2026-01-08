@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35179
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.03
+dv_has_place_latitude: 57.78
+dv_name: Valk
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.03] 
-[has_place_latitude::57.78] 
-[name::Valk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valk](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk|Valk]] 
 
-### [Valk.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.public|Valk.public]] 
 
-### [Valk.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.internal|Valk.internal]] 
 
-### [Valk.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.protect|Valk.protect]] 
 
-### [Valk.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.private|Valk.private]] 
 
-### [Valk.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.personal|Valk.personal]] 
 
-### [Valk.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Valk.secret|Valk.secret]] 
 

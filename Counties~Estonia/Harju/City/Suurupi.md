@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 34679
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.38
+dv_has_place_latitude: 59.48
+dv_name: Suurupi
+dv_name-de: Surop
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.38] 
-[has_place_latitude::59.48] 
-[name::Suurupi] 
-[name-de::Surop] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+name-de = `=this.dv_name-de` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Suurupi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi|Suurupi]] 
 
-### [Suurupi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.public|Suurupi.public]] 
 
-### [Suurupi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.internal|Suurupi.internal]] 
 
-### [Suurupi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.protect|Suurupi.protect]] 
 
-### [Suurupi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.private|Suurupi.private]] 
 
-### [Suurupi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.personal|Suurupi.personal]] 
 
-### [Suurupi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Suurupi.secret|Suurupi.secret]] 
 

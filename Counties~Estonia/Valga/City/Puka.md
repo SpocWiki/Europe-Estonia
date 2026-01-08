@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33546
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.18
+dv_has_place_latitude: 58.05
+dv_name: Puka
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.18] 
-[has_place_latitude::58.05] 
-[name::Puka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puka](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka|Puka]] 
 
-### [Puka.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.public|Puka.public]] 
 
-### [Puka.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.internal|Puka.internal]] 
 
-### [Puka.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.protect|Puka.protect]] 
 
-### [Puka.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.private|Puka.private]] 
 
-### [Puka.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.personal|Puka.personal]] 
 
-### [Puka.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Valga/City/Puka.secret|Puka.secret]] 
 

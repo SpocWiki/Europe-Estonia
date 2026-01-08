@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31157
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.07
+dv_has_place_latitude: 58.02
+dv_name: Jamma
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.07] 
-[has_place_latitude::58.02] 
-[name::Jamma] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jamma](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma|Jamma]] 
 
-### [Jamma.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.public|Jamma.public]] 
 
-### [Jamma.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.internal|Jamma.internal]] 
 
-### [Jamma.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.protect|Jamma.protect]] 
 
-### [Jamma.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.private|Jamma.private]] 
 
-### [Jamma.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.personal|Jamma.personal]] 
 
-### [Jamma.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Jamma.secret|Jamma.secret]] 
 

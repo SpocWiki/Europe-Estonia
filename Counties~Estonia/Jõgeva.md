@@ -40,17 +40,17 @@ markerFolder: ./Jõgeva/
 
 ## Confidential Links & Embeds: 
 
-### [Jõgeva](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva|Jõgeva]] 
 
-### [Jõgeva.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.public|Jõgeva.public]] 
 
-### [Jõgeva.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.internal|Jõgeva.internal]] 
 
-### [Jõgeva.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.protect|Jõgeva.protect]] 
 
-### [Jõgeva.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.private|Jõgeva.private]] 
 
-### [Jõgeva.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.personal|Jõgeva.personal]] 
 
-### [Jõgeva.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Jõgeva.secret|Jõgeva.secret]] 
 

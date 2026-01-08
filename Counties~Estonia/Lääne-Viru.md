@@ -40,17 +40,17 @@ markerFolder: ./Lääne-Viru/
 
 ## Confidential Links & Embeds: 
 
-### [Lääne-Viru](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru|Lääne-Viru]] 
 
-### [Lääne-Viru.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.public|Lääne-Viru.public]] 
 
-### [Lääne-Viru.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.internal|Lääne-Viru.internal]] 
 
-### [Lääne-Viru.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.protect|Lääne-Viru.protect]] 
 
-### [Lääne-Viru.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.private|Lääne-Viru.private]] 
 
-### [Lääne-Viru.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.personal|Lääne-Viru.personal]] 
 
-### [Lääne-Viru.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru.secret|Lääne-Viru.secret]] 
 

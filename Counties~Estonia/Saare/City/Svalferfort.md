@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34686
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22
+dv_has_place_latitude: 57.93
+dv_name: Svalferfort
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22] 
-[has_place_latitude::57.93] 
-[name::Svalferfort] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svalferfort](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort|Svalferfort]] 
 
-### [Svalferfort.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.public|Svalferfort.public]] 
 
-### [Svalferfort.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.internal|Svalferfort.internal]] 
 
-### [Svalferfort.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.protect|Svalferfort.protect]] 
 
-### [Svalferfort.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.private|Svalferfort.private]] 
 
-### [Svalferfort.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.personal|Svalferfort.personal]] 
 
-### [Svalferfort.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Svalferfort.secret|Svalferfort.secret]] 
 

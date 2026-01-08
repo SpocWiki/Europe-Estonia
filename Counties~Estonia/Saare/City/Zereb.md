@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35812
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.03
+dv_has_place_latitude: 57.93
+dv_name: Zereb
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.03] 
-[has_place_latitude::57.93] 
-[name::Zereb] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zereb](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb|Zereb]] 
 
-### [Zereb.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.public|Zereb.public]] 
 
-### [Zereb.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.internal|Zereb.internal]] 
 
-### [Zereb.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.protect|Zereb.protect]] 
 
-### [Zereb.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.private|Zereb.private]] 
 
-### [Zereb.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.personal|Zereb.personal]] 
 
-### [Zereb.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Saare/City/Zereb.secret|Zereb.secret]] 
 

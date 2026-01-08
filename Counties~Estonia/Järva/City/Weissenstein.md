@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35518
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.57
+dv_has_place_latitude: 58.88
+dv_name: Weissenstein
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.57] 
-[has_place_latitude::58.88] 
-[name::Weissenstein] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weissenstein](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein|Weissenstein]] 
 
-### [Weissenstein.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.public|Weissenstein.public]] 
 
-### [Weissenstein.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.internal|Weissenstein.internal]] 
 
-### [Weissenstein.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.protect|Weissenstein.protect]] 
 
-### [Weissenstein.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.private|Weissenstein.private]] 
 
-### [Weissenstein.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.personal|Weissenstein.personal]] 
 
-### [Weissenstein.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Weissenstein.secret|Weissenstein.secret]] 
 

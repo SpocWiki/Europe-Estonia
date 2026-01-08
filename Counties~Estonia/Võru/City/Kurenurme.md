@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31701
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.77
+dv_has_place_latitude: 57.82
+dv_name: Kurenurme
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.77] 
-[has_place_latitude::57.82] 
-[name::Kurenurme] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kurenurme](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme|Kurenurme]] 
 
-### [Kurenurme.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.public|Kurenurme.public]] 
 
-### [Kurenurme.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.internal|Kurenurme.internal]] 
 
-### [Kurenurme.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.protect|Kurenurme.protect]] 
 
-### [Kurenurme.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.private|Kurenurme.private]] 
 
-### [Kurenurme.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.personal|Kurenurme.personal]] 
 
-### [Kurenurme.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Kurenurme.secret|Kurenurme.secret]] 
 

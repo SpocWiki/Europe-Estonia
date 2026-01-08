@@ -40,17 +40,17 @@ markerFolder: ./Lääne/
 
 ## Confidential Links & Embeds: 
 
-### [Lääne](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne|Lääne]] 
 
-### [Lääne.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.public|Lääne.public]] 
 
-### [Lääne.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.internal|Lääne.internal]] 
 
-### [Lääne.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.protect|Lääne.protect]] 
 
-### [Lääne.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.private|Lääne.private]] 
 
-### [Lääne.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.personal|Lääne.personal]] 
 
-### [Lääne.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne.secret|Lääne.secret]] 
 

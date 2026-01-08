@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30704
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.82
+dv_has_place_latitude: 59.08
+dv_name: Hagudi
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.82] 
-[has_place_latitude::59.08] 
-[name::Hagudi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagudi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi|Hagudi]] 
 
-### [Hagudi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.public|Hagudi.public]] 
 
-### [Hagudi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.internal|Hagudi.internal]] 
 
-### [Hagudi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.protect|Hagudi.protect]] 
 
-### [Hagudi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.private|Hagudi.private]] 
 
-### [Hagudi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.personal|Hagudi.personal]] 
 
-### [Hagudi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Hagudi.secret|Hagudi.secret]] 
 

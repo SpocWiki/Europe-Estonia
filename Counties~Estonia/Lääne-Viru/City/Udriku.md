@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35093
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.07
+dv_has_place_latitude: 59.33
+dv_name: Udriku
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.07] 
-[has_place_latitude::59.33] 
-[name::Udriku] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Udriku](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku|Udriku]] 
 
-### [Udriku.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.public|Udriku.public]] 
 
-### [Udriku.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.internal|Udriku.internal]] 
 
-### [Udriku.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.protect|Udriku.protect]] 
 
-### [Udriku.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.private|Udriku.private]] 
 
-### [Udriku.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.personal|Udriku.personal]] 
 
-### [Udriku.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Udriku.secret|Udriku.secret]] 
 

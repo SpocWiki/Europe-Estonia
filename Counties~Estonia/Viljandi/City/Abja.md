@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28655
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.4
+dv_has_place_latitude: 58.12
+dv_name: Abja
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.4] 
-[has_place_latitude::58.12] 
-[name::Abja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abja](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja|Abja]] 
 
-### [Abja.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.public|Abja.public]] 
 
-### [Abja.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.internal|Abja.internal]] 
 
-### [Abja.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.protect|Abja.protect]] 
 
-### [Abja.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.private|Abja.private]] 
 
-### [Abja.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.personal|Abja.personal]] 
 
-### [Abja.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Abja.secret|Abja.secret]] 
 

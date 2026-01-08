@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 33832
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 23.12
+dv_has_place_latitude: 57.82
+dv_name: "# Ruhnu"
+dv_name-sv: Runö
+dv_Country: "[[../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.12] 
-[has_place_latitude::57.82] 
-[name::# Ruhnu] 
-[name-sv::Runö] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+name-sv = `=this.dv_name-sv` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Ruhnu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu|Island~Ruhnu]] 
 
-### [Island~Ruhnu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.public|Island~Ruhnu.public]] 
 
-### [Island~Ruhnu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.internal|Island~Ruhnu.internal]] 
 
-### [Island~Ruhnu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.protect|Island~Ruhnu.protect]] 
 
-### [Island~Ruhnu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.private|Island~Ruhnu.private]] 
 
-### [Island~Ruhnu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.personal|Island~Ruhnu.personal]] 
 
-### [Island~Ruhnu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Ruhnu.secret|Island~Ruhnu.secret]] 
 

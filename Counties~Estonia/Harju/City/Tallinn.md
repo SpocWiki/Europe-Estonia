@@ -16,21 +16,30 @@ tags:
 SpocWebEntityId: 35925
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.75
+dv_has_place_latitude: 59.41667
+dv_name: Tallinn
+dv_Country: "[[../../../../Estonia]]"
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Tallinn,1770|WD~Tallinn,1770]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Tallinn,1770|WD~Tallinn,1770]]"
 ---
 
 # [[Tallinn]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.75] 
-[has_place_latitude::59.41667] 
-[name::Tallinn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Estonia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Tallinn,1770|WD~Tallinn,1770]] 
+Unknown = `=this.dv_Unknown` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -80,19 +89,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tallinn) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Tallinn](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn|Tallinn]] 
 
-### [Tallinn.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.public|Tallinn.public]] 
 
-### [Tallinn.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.internal|Tallinn.internal]] 
 
-### [Tallinn.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.protect|Tallinn.protect]] 
 
-### [Tallinn.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.private|Tallinn.private]] 
 
-### [Tallinn.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.personal|Tallinn.personal]] 
 
-### [Tallinn.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Tallinn.secret|Tallinn.secret]] 
 

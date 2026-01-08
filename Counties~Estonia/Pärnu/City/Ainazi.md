@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28694
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.37
+dv_has_place_latitude: 57.87
+dv_name: Ainazi
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.37] 
-[has_place_latitude::57.87] 
-[name::Ainazi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ainazi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi|Ainazi]] 
 
-### [Ainazi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.public|Ainazi.public]] 
 
-### [Ainazi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.internal|Ainazi.internal]] 
 
-### [Ainazi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.protect|Ainazi.protect]] 
 
-### [Ainazi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.private|Ainazi.private]] 
 
-### [Ainazi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.personal|Ainazi.personal]] 
 
-### [Ainazi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Ainazi.secret|Ainazi.secret]] 
 

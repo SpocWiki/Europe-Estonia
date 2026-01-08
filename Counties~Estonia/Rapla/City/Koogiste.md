@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31563
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.93
+dv_has_place_latitude: 58.78
+dv_name: Koogiste
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.93] 
-[has_place_latitude::58.78] 
-[name::Koogiste] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koogiste](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste|Koogiste]] 
 
-### [Koogiste.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.public|Koogiste.public]] 
 
-### [Koogiste.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.internal|Koogiste.internal]] 
 
-### [Koogiste.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.protect|Koogiste.protect]] 
 
-### [Koogiste.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.private|Koogiste.private]] 
 
-### [Koogiste.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.personal|Koogiste.personal]] 
 
-### [Koogiste.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Rapla/City/Koogiste.secret|Koogiste.secret]] 
 

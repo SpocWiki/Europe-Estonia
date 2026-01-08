@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30026
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.15
+dv_has_place_latitude: 59.03
+dv_name: Ellamaa
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.15] 
-[has_place_latitude::59.03] 
-[name::Ellamaa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ellamaa](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa|Ellamaa]] 
 
-### [Ellamaa.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.public|Ellamaa.public]] 
 
-### [Ellamaa.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.internal|Ellamaa.internal]] 
 
-### [Ellamaa.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.protect|Ellamaa.protect]] 
 
-### [Ellamaa.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.private|Ellamaa.private]] 
 
-### [Ellamaa.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.personal|Ellamaa.personal]] 
 
-### [Ellamaa.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Ellamaa.secret|Ellamaa.secret]] 
 

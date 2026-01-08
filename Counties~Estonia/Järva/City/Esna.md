@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30071
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.77
+dv_has_place_latitude: 59.03
+dv_name: Esna
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.77] 
-[has_place_latitude::59.03] 
-[name::Esna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esna](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna|Esna]] 
 
-### [Esna.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.public|Esna.public]] 
 
-### [Esna.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.internal|Esna.internal]] 
 
-### [Esna.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.protect|Esna.protect]] 
 
-### [Esna.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.private|Esna.private]] 
 
-### [Esna.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.personal|Esna.personal]] 
 
-### [Esna.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Esna.secret|Esna.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Võru/
 
 ## Confidential Links & Embeds: 
 
-### [Võru](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru|Võru]] 
 
-### [Võru.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.public|Võru.public]] 
 
-### [Võru.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.internal|Võru.internal]] 
 
-### [Võru.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.protect|Võru.protect]] 
 
-### [Võru.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.private|Võru.private]] 
 
-### [Võru.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.personal|Võru.personal]] 
 
-### [Võru.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru.secret|Võru.secret]] 
 

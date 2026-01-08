@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31570
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.18
+dv_has_place_latitude: 58.93
+dv_name: Kopu
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.18] 
-[has_place_latitude::58.93] 
-[name::Kopu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kopu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu|Kopu]] 
 
-### [Kopu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.public|Kopu.public]] 
 
-### [Kopu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.internal|Kopu.internal]] 
 
-### [Kopu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.protect|Kopu.protect]] 
 
-### [Kopu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.private|Kopu.private]] 
 
-### [Kopu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.personal|Kopu.personal]] 
 
-### [Kopu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Kopu.secret|Kopu.secret]] 
 

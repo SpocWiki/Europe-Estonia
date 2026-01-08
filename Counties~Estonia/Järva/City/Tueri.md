@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35078
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.4
+dv_has_place_latitude: 58.83
+dv_name: Tueri
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.4] 
-[has_place_latitude::58.83] 
-[name::Tueri] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tueri](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri|Tueri]] 
 
-### [Tueri.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.public|Tueri.public]] 
 
-### [Tueri.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.internal|Tueri.internal]] 
 
-### [Tueri.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.protect|Tueri.protect]] 
 
-### [Tueri.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.private|Tueri.private]] 
 
-### [Tueri.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.personal|Tueri.personal]] 
 
-### [Tueri.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Järva/City/Tueri.secret|Tueri.secret]] 
 

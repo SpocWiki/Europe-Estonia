@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35168
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.03
+dv_has_place_latitude: 59.12
+dv_name: Vajangu
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.03] 
-[has_place_latitude::59.12] 
-[name::Vajangu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vajangu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu|Vajangu]] 
 
-### [Vajangu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.public|Vajangu.public]] 
 
-### [Vajangu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.internal|Vajangu.internal]] 
 
-### [Vajangu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.protect|Vajangu.protect]] 
 
-### [Vajangu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.private|Vajangu.private]] 
 
-### [Vajangu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.personal|Vajangu.personal]] 
 
-### [Vajangu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Vajangu.secret|Vajangu.secret]] 
 

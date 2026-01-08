@@ -40,17 +40,17 @@ markerFolder: ./Hiiu/
 
 ## Confidential Links & Embeds: 
 
-### [Hiiu](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu|Hiiu]] 
 
-### [Hiiu.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.public|Hiiu.public]] 
 
-### [Hiiu.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.internal|Hiiu.internal]] 
 
-### [Hiiu.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.protect|Hiiu.protect]] 
 
-### [Hiiu.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.private|Hiiu.private]] 
 
-### [Hiiu.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.personal|Hiiu.personal]] 
 
-### [Hiiu.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu.secret|Hiiu.secret]] 
 

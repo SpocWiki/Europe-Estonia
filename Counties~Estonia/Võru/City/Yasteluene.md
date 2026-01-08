@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35742
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.23
+dv_has_place_latitude: 57.72
+dv_name: Yasteluene
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.23] 
-[has_place_latitude::57.72] 
-[name::Yasteluene] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yasteluene](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene|Yasteluene]] 
 
-### [Yasteluene.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.public|Yasteluene.public]] 
 
-### [Yasteluene.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.internal|Yasteluene.internal]] 
 
-### [Yasteluene.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.protect|Yasteluene.protect]] 
 
-### [Yasteluene.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.private|Yasteluene.private]] 
 
-### [Yasteluene.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.personal|Yasteluene.personal]] 
 
-### [Yasteluene.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Võru/City/Yasteluene.secret|Yasteluene.secret]] 
 

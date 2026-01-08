@@ -40,17 +40,17 @@ markerFolder: ./Põlva/
 
 ## Confidential Links & Embeds: 
 
-### [Põlva](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva|Põlva]] 
 
-### [Põlva.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.public|Põlva.public]] 
 
-### [Põlva.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.internal|Põlva.internal]] 
 
-### [Põlva.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.protect|Põlva.protect]] 
 
-### [Põlva.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.private|Põlva.private]] 
 
-### [Põlva.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.personal|Põlva.personal]] 
 
-### [Põlva.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva.secret|Põlva.secret]] 
 

@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32737
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 24.53
+dv_has_place_latitude: 59.6
+dv_name: Naissaar
+dv_name-se: Nargö
+dv_Country: "[[../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.53] 
-[has_place_latitude::59.6] 
-[name::Naissaar] 
-[name-se::Nargö] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+name-se = `=this.dv_name-se` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Naissaar](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar|Island~Naissaar]] 
 
-### [Island~Naissaar.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.public|Island~Naissaar.public]] 
 
-### [Island~Naissaar.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.internal|Island~Naissaar.internal]] 
 
-### [Island~Naissaar.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.protect|Island~Naissaar.protect]] 
 
-### [Island~Naissaar.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.private|Island~Naissaar.private]] 
 
-### [Island~Naissaar.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.personal|Island~Naissaar.personal]] 
 
-### [Island~Naissaar.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Island~Naissaar.secret|Island~Naissaar.secret]] 
 

@@ -6,51 +6,51 @@ has_id_wikidata: Q19253
 location:
   - 58.676666666
   - 27.491666666
-outflows: '[[_Standards/WikiData/WD~Narva,209031]]'
+outflows: "[[_Standards/WikiData/WD~Narva,209031]]"
 inflows:
-  - '[[_Standards/WikiData/WD~Emajõgi,215378]]'
-  - '[[_Standards/WikiData/WD~Avijõgi,790987]]'
-  - '[[_Standards/WikiData/WD~Rannapungerja_River,1341450]]'
-  - '[[_Standards/WikiData/WD~Piusa_River,1816805]]'
-  - '[[_Standards/WikiData/WD~Võhandu_River,2094012]]'
-  - '[[_Standards/WikiData/WD~Alajõgi,3736811]]'
-  - '[[_Standards/WikiData/WD~Abizha,4054732]]'
-  - '[[_Standards/WikiData/WD~Gdovka,4134618]]'
-  - '[[_Standards/WikiData/WD~Zhelcha,4179226]]'
-  - '[[_Standards/WikiData/WD~Kuleyskaya,4246067]]'
-  - '[[_Standards/WikiData/WD~Kuna,4247076]]'
-  - '[[_Standards/WikiData/WD~Lipenka,4262441]]'
-  - '[[_Standards/WikiData/WD~Molozhevka,4300855]]'
-  - '[[_Standards/WikiData/WD~Obdyokh,4329091]]'
-  - '[[_Standards/WikiData/WD~Rovja,4395327]]'
-  - '[[_Standards/WikiData/WD~Startseva,4440820]]'
-  - '[[_Standards/WikiData/WD~Tolba,4459654]]'
-  - '[[_Standards/WikiData/WD~Torokhovka,4461263]]'
-  - '[[_Standards/WikiData/WD~Cherma,4513233]]'
-  - '[[_Standards/WikiData/WD~Chyornaya,4518598]]'
-  - '[[_Standards/WikiData/WD~Koosa_River,12367425]]'
-  - '[[_Standards/WikiData/WD~Mustvee_River,12370602]]'
-  - '[[_Standards/WikiData/WD~Piilsi_River,12372417]]'
-  - '[[_Standards/WikiData/WD~Kullavere_River,15972197]]'
-  - '[[_Standards/WikiData/WD~Alatskivi_River,16410027]]'
-  - '[[_Standards/WikiData/WD~Borovka,32519677]]'
-  - '[[_Standards/WikiData/WD~Velikaya,23550]]'
+  - "[[_Standards/WikiData/WD~Emajõgi,215378]]"
+  - "[[_Standards/WikiData/WD~Avijõgi,790987]]"
+  - "[[_Standards/WikiData/WD~Rannapungerja_River,1341450]]"
+  - "[[_Standards/WikiData/WD~Piusa_River,1816805]]"
+  - "[[_Standards/WikiData/WD~Võhandu_River,2094012]]"
+  - "[[_Standards/WikiData/WD~Alajõgi,3736811]]"
+  - "[[_Standards/WikiData/WD~Abizha,4054732]]"
+  - "[[_Standards/WikiData/WD~Gdovka,4134618]]"
+  - "[[_Standards/WikiData/WD~Zhelcha,4179226]]"
+  - "[[_Standards/WikiData/WD~Kuleyskaya,4246067]]"
+  - "[[_Standards/WikiData/WD~Kuna,4247076]]"
+  - "[[_Standards/WikiData/WD~Lipenka,4262441]]"
+  - "[[_Standards/WikiData/WD~Molozhevka,4300855]]"
+  - "[[_Standards/WikiData/WD~Obdyokh,4329091]]"
+  - "[[_Standards/WikiData/WD~Rovja,4395327]]"
+  - "[[_Standards/WikiData/WD~Startseva,4440820]]"
+  - "[[_Standards/WikiData/WD~Tolba,4459654]]"
+  - "[[_Standards/WikiData/WD~Torokhovka,4461263]]"
+  - "[[_Standards/WikiData/WD~Cherma,4513233]]"
+  - "[[_Standards/WikiData/WD~Chyornaya,4518598]]"
+  - "[[_Standards/WikiData/WD~Koosa_River,12367425]]"
+  - "[[_Standards/WikiData/WD~Mustvee_River,12370602]]"
+  - "[[_Standards/WikiData/WD~Piilsi_River,12372417]]"
+  - "[[_Standards/WikiData/WD~Kullavere_River,15972197]]"
+  - "[[_Standards/WikiData/WD~Alatskivi_River,16410027]]"
+  - "[[_Standards/WikiData/WD~Borovka,32519677]]"
+  - "[[_Standards/WikiData/WD~Velikaya,23550]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Lämmijärv,1066964]]'
-  - '[[_Standards/WikiData/WD~Lake_Pihkva,1144905]]'
-  - '[[_Standards/WikiData/WD~Lake_Peipus,2627792]]'
-instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
+  - "[[_Standards/WikiData/WD~Lämmijärv,1066964]]"
+  - "[[_Standards/WikiData/WD~Lake_Pihkva,1144905]]"
+  - "[[_Standards/WikiData/WD~Lake_Peipus,2627792]]"
+instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
 basin_country:
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Belarus,184]]'
-  - '[[_Standards/WikiData/WD~Estonia,191]]'
-  - '[[_Standards/WikiData/WD~Latvia,211]]'
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Latvia,211]]"
 country:
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Estonia,191]]'
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
 elevation_above_sea_level: 30
 vertical_depth:
   - 8
@@ -68,11 +68,14 @@ Commons_category: Lake Peipus
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Peipus%2C%20LandSat-8%2C%202016-10-20.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Peipus%2C%20LandSat-8%2C%202016-10-20.jpg
 coordinate_location: Point(27.491666666 58.676666666)
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Lake_Peipus,19253]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Lake_Peipus,19253]]"
 ---
 
 # [[Lake_Peipus]] 
 
-#is_/same_as :: [[WD~Lake_Peipus,19253]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -109,4 +112,21 @@ markerFile: [[Lake_Peipus]]
 > On 5 April 1242, the frozen lake was the site of the Battle on the Ice (also known as the Battle of Lake Peipus) between the armies of the Novgorod Republic and the Teutonic Order.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Peipus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus|Lake_Peipus]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.public|Lake_Peipus.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.internal|Lake_Peipus.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.protect|Lake_Peipus.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.private|Lake_Peipus.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.personal|Lake_Peipus.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/Lake_Peipus.secret|Lake_Peipus.secret]] 
 

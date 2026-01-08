@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29853
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.72
+dv_has_place_latitude: 58.38
+dv_name: Dorpat
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.72] 
-[has_place_latitude::58.38] 
-[name::Dorpat] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorpat](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat|Dorpat]] 
 
-### [Dorpat.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.public|Dorpat.public]] 
 
-### [Dorpat.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.internal|Dorpat.internal]] 
 
-### [Dorpat.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.protect|Dorpat.protect]] 
 
-### [Dorpat.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.private|Dorpat.private]] 
 
-### [Dorpat.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.personal|Dorpat.personal]] 
 
-### [Dorpat.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Dorpat.secret|Dorpat.secret]] 
 

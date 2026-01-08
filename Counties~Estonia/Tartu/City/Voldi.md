@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35342
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.65
+dv_has_place_latitude: 58.53
+dv_name: Voldi
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.65] 
-[has_place_latitude::58.53] 
-[name::Voldi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voldi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi|Voldi]] 
 
-### [Voldi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.public|Voldi.public]] 
 
-### [Voldi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.internal|Voldi.internal]] 
 
-### [Voldi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.protect|Voldi.protect]] 
 
-### [Voldi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.private|Voldi.private]] 
 
-### [Voldi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.personal|Voldi.personal]] 
 
-### [Voldi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Tartu/City/Voldi.secret|Voldi.secret]] 
 

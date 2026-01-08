@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35351
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.13
+dv_has_place_latitude: 58.13
+dv_name: Voltveti
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.13] 
-[has_place_latitude::58.13] 
-[name::Voltveti] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voltveti](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti|Voltveti]] 
 
-### [Voltveti.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.public|Voltveti.public]] 
 
-### [Voltveti.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.internal|Voltveti.internal]] 
 
-### [Voltveti.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.protect|Voltveti.protect]] 
 
-### [Voltveti.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.private|Voltveti.private]] 
 
-### [Voltveti.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.personal|Voltveti.personal]] 
 
-### [Voltveti.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Voltveti.secret|Voltveti.secret]] 
 

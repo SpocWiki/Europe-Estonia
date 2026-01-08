@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35167
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.7
+dv_has_place_latitude: 59.38
+dv_name: Vaivara
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.7] 
-[has_place_latitude::59.38] 
-[name::Vaivara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaivara](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara|Vaivara]] 
 
-### [Vaivara.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.public|Vaivara.public]] 
 
-### [Vaivara.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.internal|Vaivara.internal]] 
 
-### [Vaivara.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.protect|Vaivara.protect]] 
 
-### [Vaivara.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.private|Vaivara.private]] 
 
-### [Vaivara.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.personal|Vaivara.personal]] 
 
-### [Vaivara.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Ida-Viru/City/Vaivara.secret|Vaivara.secret]] 
 

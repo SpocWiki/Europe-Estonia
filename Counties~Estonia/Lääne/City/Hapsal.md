@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30766
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.43
+dv_has_place_latitude: 58.93
+dv_name: Hapsal
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.43] 
-[has_place_latitude::58.93] 
-[name::Hapsal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hapsal](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal|Hapsal]] 
 
-### [Hapsal.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.public|Hapsal.public]] 
 
-### [Hapsal.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.internal|Hapsal.internal]] 
 
-### [Hapsal.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.protect|Hapsal.protect]] 
 
-### [Hapsal.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.private|Hapsal.private]] 
 
-### [Hapsal.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.personal|Hapsal.personal]] 
 
-### [Hapsal.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne/City/Hapsal.secret|Hapsal.secret]] 
 

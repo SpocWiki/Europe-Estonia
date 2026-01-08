@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35219
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.72
+dv_has_place_latitude: 58.33
+dv_name: Vaskraeama
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.72] 
-[has_place_latitude::58.33] 
-[name::Vaskraeama] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaskraeama](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama|Vaskraeama]] 
 
-### [Vaskraeama.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.public|Vaskraeama.public]] 
 
-### [Vaskraeama.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.internal|Vaskraeama.internal]] 
 
-### [Vaskraeama.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.protect|Vaskraeama.protect]] 
 
-### [Vaskraeama.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.private|Vaskraeama.private]] 
 
-### [Vaskraeama.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.personal|Vaskraeama.personal]] 
 
-### [Vaskraeama.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Vaskraeama.secret|Vaskraeama.secret]] 
 

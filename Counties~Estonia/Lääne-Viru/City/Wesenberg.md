@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35563
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.35
+dv_has_place_latitude: 59.35
+dv_name: Wesenberg
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.35] 
-[has_place_latitude::59.35] 
-[name::Wesenberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wesenberg](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg|Wesenberg]] 
 
-### [Wesenberg.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.public|Wesenberg.public]] 
 
-### [Wesenberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.internal|Wesenberg.internal]] 
 
-### [Wesenberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.protect|Wesenberg.protect]] 
 
-### [Wesenberg.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.private|Wesenberg.private]] 
 
-### [Wesenberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.personal|Wesenberg.personal]] 
 
-### [Wesenberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Wesenberg.secret|Wesenberg.secret]] 
 

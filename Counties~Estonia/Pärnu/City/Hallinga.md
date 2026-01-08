@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30728
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.5
+dv_has_place_latitude: 58.62
+dv_name: Hallinga
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.5] 
-[has_place_latitude::58.62] 
-[name::Hallinga] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hallinga](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga|Hallinga]] 
 
-### [Hallinga.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.public|Hallinga.public]] 
 
-### [Hallinga.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.internal|Hallinga.internal]] 
 
-### [Hallinga.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.protect|Hallinga.protect]] 
 
-### [Hallinga.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.private|Hallinga.private]] 
 
-### [Hallinga.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.personal|Hallinga.personal]] 
 
-### [Hallinga.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Pärnu/City/Hallinga.secret|Hallinga.secret]] 
 

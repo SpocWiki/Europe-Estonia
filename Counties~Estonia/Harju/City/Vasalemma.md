@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35217
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.27
+dv_has_place_latitude: 59.23
+dv_name: Vasalemma
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.27] 
-[has_place_latitude::59.23] 
-[name::Vasalemma] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vasalemma](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma|Vasalemma]] 
 
-### [Vasalemma.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.public|Vasalemma.public]] 
 
-### [Vasalemma.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.internal|Vasalemma.internal]] 
 
-### [Vasalemma.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.protect|Vasalemma.protect]] 
 
-### [Vasalemma.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.private|Vasalemma.private]] 
 
-### [Vasalemma.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.personal|Vasalemma.personal]] 
 
-### [Vasalemma.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Harju/City/Vasalemma.secret|Vasalemma.secret]] 
 

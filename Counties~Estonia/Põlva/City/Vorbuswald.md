@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35353
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.92
+dv_has_place_latitude: 58.02
+dv_name: Vorbuswald
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.92] 
-[has_place_latitude::58.02] 
-[name::Vorbuswald] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vorbuswald](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald|Vorbuswald]] 
 
-### [Vorbuswald.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.public|Vorbuswald.public]] 
 
-### [Vorbuswald.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.internal|Vorbuswald.internal]] 
 
-### [Vorbuswald.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.protect|Vorbuswald.protect]] 
 
-### [Vorbuswald.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.private|Vorbuswald.private]] 
 
-### [Vorbuswald.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.personal|Vorbuswald.personal]] 
 
-### [Vorbuswald.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Põlva/City/Vorbuswald.secret|Vorbuswald.secret]] 
 

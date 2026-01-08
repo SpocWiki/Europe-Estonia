@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34756
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.98
+dv_has_place_latitude: 59.28
+dv_name: Tapa
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.98] 
-[has_place_latitude::59.28] 
-[name::Tapa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tapa](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa|Tapa]] 
 
-### [Tapa.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.public|Tapa.public]] 
 
-### [Tapa.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.internal|Tapa.internal]] 
 
-### [Tapa.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.protect|Tapa.protect]] 
 
-### [Tapa.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.private|Tapa.private]] 
 
-### [Tapa.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.personal|Tapa.personal]] 
 
-### [Tapa.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Lääne-Viru/City/Tapa.secret|Tapa.secret]] 
 

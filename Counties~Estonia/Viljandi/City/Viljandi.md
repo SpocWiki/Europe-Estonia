@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35293
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.58
+dv_has_place_latitude: 58.38
+dv_name: Viljandi
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.58] 
-[has_place_latitude::58.38] 
-[name::Viljandi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viljandi](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi|Viljandi]] 
 
-### [Viljandi.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.public|Viljandi.public]] 
 
-### [Viljandi.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.internal|Viljandi.internal]] 
 
-### [Viljandi.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.protect|Viljandi.protect]] 
 
-### [Viljandi.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.private|Viljandi.private]] 
 
-### [Viljandi.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.personal|Viljandi.personal]] 
 
-### [Viljandi.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Viljandi/City/Viljandi.secret|Viljandi.secret]] 
 

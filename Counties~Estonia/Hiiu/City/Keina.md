@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31372
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.78
+dv_has_place_latitude: 58.82
+dv_name: Keina
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.78] 
-[has_place_latitude::58.82] 
-[name::Keina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keina](/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina|Keina]] 
 
-### [Keina.public](/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.public|Keina.public]] 
 
-### [Keina.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.internal|Keina.internal]] 
 
-### [Keina.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.protect|Keina.protect]] 
 
-### [Keina.private](/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.private|Keina.private]] 
 
-### [Keina.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.personal|Keina.personal]] 
 
-### [Keina.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/Counties~Estonia/Hiiu/City/Keina.secret|Keina.secret]] 
 
