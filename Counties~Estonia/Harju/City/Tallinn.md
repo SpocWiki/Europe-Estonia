@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.75
 dv_has_place_latitude: 59.41667
-dv_name: Tallinn
+dv_has_name_: Tallinn
 dv_Country: "[[../../../../Estonia]]"
 dv_Unknown: 32
 dv_is_:

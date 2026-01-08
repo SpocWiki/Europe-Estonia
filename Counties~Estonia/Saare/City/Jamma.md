@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.07
 dv_has_place_latitude: 58.02
-dv_name: Jamma
+dv_has_name_: Jamma
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

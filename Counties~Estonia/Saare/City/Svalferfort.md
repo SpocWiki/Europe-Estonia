@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22
 dv_has_place_latitude: 57.93
-dv_name: Svalferfort
+dv_has_name_: Svalferfort
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

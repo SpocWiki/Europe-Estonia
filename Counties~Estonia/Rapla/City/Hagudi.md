@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.82
 dv_has_place_latitude: 59.08
-dv_name: Hagudi
+dv_has_name_: Hagudi
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

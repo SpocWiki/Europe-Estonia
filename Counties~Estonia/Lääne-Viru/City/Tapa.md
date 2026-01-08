@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.98
 dv_has_place_latitude: 59.28
-dv_name: Tapa
+dv_has_name_: Tapa
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

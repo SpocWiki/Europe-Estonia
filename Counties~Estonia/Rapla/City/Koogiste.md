@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.93
 dv_has_place_latitude: 58.78
-dv_name: Koogiste
+dv_has_name_: Koogiste
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.23
 dv_has_place_latitude: 57.72
-dv_name: Yasteluene
+dv_has_name_: Yasteluene
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

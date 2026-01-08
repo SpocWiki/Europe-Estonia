@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.5
 dv_has_place_latitude: 58.42
-dv_name: Pernau
+dv_has_name_: Pernau
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

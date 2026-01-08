@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.35
 dv_has_place_latitude: 59.35
-dv_name: Wesenberg
+dv_has_name_: Wesenberg
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.48
 dv_has_place_latitude: 58.25
-dv_name: Kuressaar
+dv_has_name_: Kuressaar
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

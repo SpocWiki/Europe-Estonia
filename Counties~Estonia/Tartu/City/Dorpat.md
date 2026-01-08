@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.72
 dv_has_place_latitude: 58.38
-dv_name: Dorpat
+dv_has_name_: Dorpat
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.72
 dv_has_place_latitude: 58.33
-dv_name: Vaskraeama
+dv_has_name_: Vaskraeama
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

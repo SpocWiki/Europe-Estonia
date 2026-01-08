@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.65
 dv_has_place_latitude: 58.53
-dv_name: Voldi
+dv_has_name_: Voldi
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

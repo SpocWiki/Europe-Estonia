@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.05
 dv_has_place_latitude: 59.17
-dv_name: Tamsal
+dv_has_name_: Tamsal
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

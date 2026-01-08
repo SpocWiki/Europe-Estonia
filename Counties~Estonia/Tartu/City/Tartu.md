@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.73
 dv_has_place_latitude: 58.38
-dv_name: Tartu
+dv_has_name_: Tartu
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

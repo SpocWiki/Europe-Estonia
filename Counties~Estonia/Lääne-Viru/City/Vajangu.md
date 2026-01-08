@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.03
 dv_has_place_latitude: 59.12
-dv_name: Vajangu
+dv_has_name_: Vajangu
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

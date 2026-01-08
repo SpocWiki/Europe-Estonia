@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.38
 dv_has_place_latitude: 58.42
-dv_name: Kuivastu
+dv_has_name_: Kuivastu
 dv_Country: "[[../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.07
 dv_has_place_latitude: 59.38
-dv_name: Arukuela
+dv_has_name_: Arukuela
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

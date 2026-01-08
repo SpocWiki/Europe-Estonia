@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.52
 dv_has_place_latitude: 58.38
-dv_name: Fellin
+dv_has_name_: Fellin
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

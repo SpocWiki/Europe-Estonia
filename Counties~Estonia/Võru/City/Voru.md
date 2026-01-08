@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.03
 dv_has_place_latitude: 57.87
-dv_name: Voru
+dv_has_name_: Voru
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

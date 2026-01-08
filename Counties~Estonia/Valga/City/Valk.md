@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.03
 dv_has_place_latitude: 57.78
-dv_name: Valk
+dv_has_name_: Valk
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

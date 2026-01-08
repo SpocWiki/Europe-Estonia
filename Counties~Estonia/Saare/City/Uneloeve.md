@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.83
 dv_has_place_latitude: 58.35
-dv_name: Uneloeve
+dv_has_name_: Uneloeve
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

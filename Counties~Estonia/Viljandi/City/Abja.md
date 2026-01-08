@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.4
 dv_has_place_latitude: 58.12
-dv_name: Abja
+dv_has_name_: Abja
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 23.32
 dv_has_place_latitude: 59.33
-dv_name: Osmussaar
+dv_has_name_: Osmussaar
 dv_Country: "[[../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

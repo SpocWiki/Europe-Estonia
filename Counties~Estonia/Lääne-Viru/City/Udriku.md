@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.07
 dv_has_place_latitude: 59.33
-dv_name: Udriku
+dv_has_name_: Udriku
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

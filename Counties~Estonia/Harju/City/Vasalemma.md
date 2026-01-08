@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.27
 dv_has_place_latitude: 59.23
-dv_name: Vasalemma
+dv_has_name_: Vasalemma
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
