@@ -1,38 +1,332 @@
 ---
-aliases:
-  - Estonia
-  - Estonie
-  - إستونيا
-  - 爱沙尼亚
-  - Эстония
-  - the Republic of Estonia
-  - la República de Estonia
-  - ReadMe
-location:
-  - 59.4167
-  - 24.75
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 26885
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Estonia
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
-Languages:
-  - et
-  - ru
+dv_has_:
+  name_:
+    ab: Естониа
+    ace: Èstonia
+    ady: Эстоние
+    aeb_arab: أستونيا
+    af: Estland
+    alt: Эстония
+    am: ኤስቶኒያ
+    ami: Estonia
+    an: Estonia
+    ang: Estland
+    ann: Esitọnia
+    anp: एस्टोनिया
+    ar: إستونيا
+    arc: ܐܣܛܘܢܝܐ
+    ary: إسطونيا
+    arz: استونيا
+    ast: Estonia
+    av: Эстония
+    avk: Eestia
+    awa: एस्टोनिया
+    ay: Istuña
+    az: Estoniya
+    azb: ایستونی
+    ba: Эстония
+    ban: Estonia
+    bar: Estland
+    bbc: Estonia
+    bcl: Estonya
+    be: Эстонія
+    be_tarask: Эстонія
+    bew: Èstlan
+    bg: Естония
+    bgn: استونیا
+    bho: इस्टोनिया
+    bi: Estonia
+    bm: Estonia
+    bn: এস্তোনিয়া
+    bo: ཨིསུ་ཊོ་ནིཡ།
+    bpy: এস্তোনিয়া
+    br: Estonia
+    bs: Estonija
+    bxr: Эстон
+    ca: Estònia
+    cbk_zam: Estonia
+    cdo: Estonia
+    ce: Эстони
+    ceb: Estonia
+    ch: Estonia
+    chr: ᎡᏍᏙᏂᏱ
+    ckb: ئیستۆنیا
+    co: Estonia
+    crh: Estoniya
+    crh_latn: Estoniya
+    cs: Estonsko
+    csb: Estóńskô
+    cu: Єсть
+    cv: Эстони
+    cy: Estonia
+    da: Estland
+    dag: Estonia
+    de: Estland
+    de-at: Estland
+    de_ch: Estland
+    din: Estonia
+    diq: Estonya
+    dsb: Estniska
+    dty: इस्टोनिया
+    dz: ཨིསི་ཊོ་ནི་ཡ།
+    ee: Estonia
+    el: Εσθονία
+    eml: Estògna
+    en: Estonia
+    en_ca: Estonia
+    en_gb: Estonia
+    eo: Estonio
+    es: Estonia
+    et: Eesti
+    eu: Estonia
+    ext: Estónia
+    fa: استونی
+    ff: Estoniya
+    fi: Viro
+    fo: Estland
+    fr: Estonie
+    frc: Estonie
+    frp: Èstonie
+    frr: Eestlun
+    fur: Estonie
+    fy: Estlân
+    ga: an Eastóin
+    gag: Estoniya
+    gcr: Estoni
+    gd: Eastòinia
+    gl: Estonia
+    glk: استؤني
+    gn: Etóña
+    gom: एस्टोनिया
+    gom-deva: एस्टोनिया
+    gom_latn: Estonia
+    got: "\U00010330\U00010339\U00010343\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+    gpe: Estonia
+    gsw: Estland
+    gu: ઈસ્ટોનિયા
+    gv: yn Estaan
+    ha: Istoniya
+    hak: Estonia
+    haw: ʻEsetonia
+    he: אסטוניה
+    hi: एस्टोनिया
+    hif: Estonia
+    hr: Estonija
+    hsb: Estiska
+    ht: Estoni
+    hu: Észtország
+    hy: Էստոնիա
+    hyw: Էսթոնիա
+    ia: Estonia
+    iba: Estonia
+    id: Estonia
+    ie: Estonia
+    ig: Estoniya
+    ilo: Estonia
+    inh: Эстиче
+    io: Estonia
+    is: Eistland
+    it: Estonia
+    iu: ᐃᔅᑑᓂᐊ
+    ja: エストニア
+    jam: hEstuonia
+    jbo: estis
+    jv: Estonia
+    ka: ესტონეთი
+    kaa: Estoniya
+    kab: Isṭuni
+    kbd: Эстониэ
+    kbp: Ɛsɩtoonii
+    kg: Estonia
+    kge: Estonia
+    kk: Эстония
+    kl: Estlandi
+    km: អេស្តូនី
+    kn: ಎಸ್ಟೊನಿಯ
+    ko: 에스토니아
+    koi: Эстму
+    krc: Эстония
+    ksh: Estland
+    ku: Estonya
+    kv: Эстония
+    kw: Estoni
+    ky: Эстония
+    la: Estonia
+    lad: Estonia
+    lb: Estland
+    lez: Эстония
+    lfn: Esti
+    lg: Estonia
+    li: Esland
+    lij: Estònia
+    liv: Ēstimō
+    lld: Estonia
+    lmo: Estonia
+    ln: Estonia
+    lo: ປະເທດແອັດສະໂຕນີ
+    lrc: استونی
+    lt: Estija
+    ltg: Igauneja
+    lv: Igaunija
+    lzh: 愛沙尼亞
+    mad: Estonia
+    mai: इस्टोनिया
+    map_bms: Estonia
+    mdf: Эсти мастор
+    mg: Estonia
+    mhr: Эстоний
+    mi: Etonia
+    min: Estonia
+    mk: Естонија
+    ml: എസ്റ്റോണിയ
+    mn: Эстон
+    mni: ꯑꯦꯁ꯭ꯇꯣꯅꯤꯌꯥ
+    mr: एस्टोनिया
+    mrj: Эстони
+    ms: Estonia
+    mt: Estonja
+    mwl: Stónia
+    my: အက်စ်တိုးနီးယားနိုင်ငံ
+    myv: Эстэнь Мастор
+    mzn: استونی
+    na: Etoniya
+    nah: Estonia
+    nan: Estonia
+    nap: Estonia
+    nb: Estland
+    nds: Eestland
+    nds_nl: Estlaand
+    ne: इस्टोनिया
+    new: इस्टोनिया
+    nl: Estland
+    nn: Estland
+    nov: Estonia
+    nqo: ߌߛߑߕߏߣߌ߫
+    nrm: Estonnie
+    nso: Estonia
+    nv: Hakázítah Dineʼé Bikéyah
+    ny: Estonia
+    oc: Estònia
+    olo: Estounii
+    om: Istooniyaa
+    or: ଏଷ୍ଟୋନିଆ
+    os: Эстони
+    pa: ਏਸਟੋਨੀਆ
+    pag: Estoniya
+    pam: Estonya
+    pap: Estonia
+    pcd: Éstonie
+    pdc: Eschdooni
+    pi: एस्टोनिया
+    pih: Estonya
+    pl: Estonia
+    pms: Estònia
+    pnb: اسٹونیا
+    pnt: Εσθονία
+    ps: اېستونيا
+    pt: Estónia
+    pt_br: Estônia
+    qu: Istunya
+    rm: Estonia
+    rmy: Estoniya
+    ro: Estonia
+    roa-tara: Estonie
+    ru: Эстония
+    rue: Естонія
+    rup: Estonia
+    rw: Esitoniya
+    sa: एस्टोनिया
+    sah: Эстония
+    sat: ᱮᱥᱛᱳᱱᱤᱭᱟ
+    sc: Estònia
+    scn: Estonia
+    sco: Estonie
+    sd: اسٽونيا
+    se: Estteeana
+    sg: Estonïi
+    sgs: Estėjė
+    sh: Estonija
+    shi: Iṣṭuniya
+    shn: မိူင်းဢႄႇသတူဝ်းၼီးယႃး
+    si: එස්ටෝනියා
+    sk: Estónsko
+    sl: Estonija
+    sm: Esitonia
+    sma: Estlaante
+    smj: Estlánnda
+    smn: Eestieennâm
+    sms: Eestijânnam
+    sn: Estonia
+    so: Estoniya
+    sq: Estonia
+    sr: Естонија
+    sr_ec: Естонија
+    sr_el: Estonija
+    srn: Estlenikondre
+    ss: IWestoniya
+    st: Estonia
+    stq: Estlound
+    su: Éstonia
+    sv: Estland
+    sw: Estonia
+    szl: Estůńijo
+    szy: Estonia
+    ta: எசுத்தோனியா
+    tay: Estonia
+    te: ఎస్టోనియా
+    tet: Estónia
+    tg: Эстония
+    th: ประเทศเอสโตเนีย
+    tk: Estoniýa
+    tl: Estonia
+    tly: Estoniyə
+    to: "'Esitonia"
+    tok: ma Esi
+    tpi: Estonia
+    tr: Estonya
+    trv: Estonia
+    ts: Estonia
+    tt: Эстония
+    tum: Estonia
+    tw: Estonia
+    ty: Etoni
+    udm: Эстония
+    ug: ئېستونىيە
+    uk: Естонія
+    ur: استونیا
+    uz: Estoniya
+    ve: Estonia
+    vec: Estònia
+    vep: Estinma
+    vi: Estonia
+    vls: Estland
+    vo: Lestiyän
+    vro: Eesti
+    wa: Estoneye
+    war: Estonya
+    wo: Estooni
+    wuu: 爱沙尼亚
+    xal: Эстдин Орн
+    xh: Estoniya
+    xmf: ესტონეთი
+    yi: עסטלאנד
+    yo: Estóníà
+    yue: 愛沙尼亞
+    za: Estonia
+    zea: Estland
+    zgh: ⵉⵙⵜⵓⵏⵢⴰ
+    zh: 愛沙尼亞
+    zh_cn: 爱沙尼亚
+    zh_hans: 爱沙尼亚
+    zh_hant: 愛沙尼亞
+    zh_hk: 愛沙尼亞
+    zh_mo: 愛沙尼亞
+    zh-my: 爱沙尼亚
+    zh_sg: 爱沙尼亚
+    zh_tw: 愛沙尼亞
+    zu: I-Estoniya
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Estonia
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -61,9 +355,9 @@ dv_UNTERM_Chinese_Formal: 爱沙尼亚共和国
 dv_UNTERM_French_Formal: la République d'Estonie
 dv_UNTERM_Russian: Эстония
 dv_UNTERM_Russian_Formal: Эстонская Республика
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Intermediate_Region_Name: '[[Estonia]]'
+dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
 dv_Sub-region: 154
 dv_Geoname-ID: 453733
@@ -84,127 +378,752 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 233
 dv_ISO2: EE
 dv_ISO3: EST
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect|Estonia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Estonia.private|Estonia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]]'
 dv_has_name_de: Estland
 dv_Area-Total: 45227
 dv_Area-Land: 42270
-dv_Continent: "[[../../../Europe]]"
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: EST
-dv_Capital: "[[Counties~Estonia/Harju/City/Tallinn]]"
+dv_Capital: '[[Estonia/Counties~Estonia/Harju/City/Tallinn|Tallinn]]'
 dv_Alcohol-l: 15.6
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.75
 dv_has_place_latitude: 59.4167
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Estonia
 dv_developed_developing_countries: Developed
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect|Estonia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Estonia.private|Estonia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]]'
+aliases:
+- "'Esitonia"
+- an Eastóin
+- Eastòinia
+- Eesti
+- Eestia
+- Eestieennâm
+- Eestijânnam
+- Eestland
+- Eestlun
+- Eistland
+- Eschdooni
+- Esitonia
+- Esitoniya
+- Esitọnia
+- Esland
+- Esti
+- Estija
+- Estinma
+- estis
+- Estiska
+- Estlaand
+- Estlaante
+- Estland
+- Estlandi
+- Estlenikondre
+- Estlound
+- Estlánnda
+- Estlân
+- Estniska
+- Estoneye
+- Estoni
+- Estonia
+- Estonie
+- Estonija
+- Estonio
+- Estoniya
+- Estoniyə
+- Estoniýa
+- Estonja
+- Estonnie
+- Estonsko
+- Estonya
+- Estonïi
+- Estooni
+- Estounii
+- Estteeana
+- Estògna
+- Estònia
+- Estónia
+- Estónsko
+- Estóníà
+- Estóńskô
+- Estônia
+- Estėjė
+- Estůńijo
+- Etoni
+- Etonia
+- Etoniya
+- Etóña
+- Hakázítah Dineʼé Bikéyah
+- hEstuonia
+- I-Estoniya
+- Igauneja
+- Igaunija
+- Istoniya
+- Istooniyaa
+- Istunya
+- Istuña
+- Isṭuni
+- IWestoniya
+- Iṣṭuniya
+- la República de Estonia
+- Lestiyän
+- ma Esi
+- Stónia
+- the Republic of Estonia
+- Viro
+- yn Estaan
+- Èstlan
+- Èstonia
+- Èstonie
+- Éstonia
+- Éstonie
+- Észtország
+- Ēstimō
+- Ɛsɩtoonii
+- ʻEsetonia
+- Εσθονία
+- Єсть
+- Естонія
+- Естонија
+- Естониа
+- Естония
+- Эстдин Орн
+- Эсти мастор
+- Эстиче
+- Эстму
+- Эстон
+- Эстонія
+- Эстони
+- Эстоние
+- Эстоний
+- Эстониэ
+- Эстония
+- Эстэнь Мастор
+- Էսթոնիա
+- Էստոնիա
+- אסטוניה
+- עסטלאנד
+- أستونيا
+- إستونيا
+- إسطونيا
+- ئیستۆنیا
+- ئېستونىيە
+- استؤني
+- استونيا
+- استونی
+- استونیا
+- اسٹونیا
+- اسٽونيا
+- ایستونی
+- اېستونيا
+- ܐܣܛܘܢܝܐ
+- ߌߛߑߕߏߣߌ߫
+- इस्टोनिया
+- एस्टोनिया
+- এস্তোনিয়া
+- ਏਸਟੋਨੀਆ
+- ઈસ્ટોનિયા
+- ଏଷ୍ଟୋନିଆ
+- எசுத்தோனியா
+- ఎస్టోనియా
+- ಎಸ್ಟೊನಿಯ
+- എസ്റ്റോണിയ
+- එස්ටෝනියා
+- ประเทศเอสโตเนีย
+- ປະເທດແອັດສະໂຕນີ
+- ཨིསི་ཊོ་ནི་ཡ།
+- ཨིསུ་ཊོ་ནིཡ།
+- မိူင်းဢႄႇသတူဝ်းၼီးယႃး
+- အက်စ်တိုးနီးယားနိုင်ငံ
+- ესტონეთი
+- ኤስቶኒያ
+- ᎡᏍᏙᏂᏱ
+- ᐃᔅᑑᓂᐊ
+- អេស្តូនី
+- ᱮᱥᱛᱳᱱᱤᱭᱟ
+- ⵉⵙⵜⵓⵏⵢⴰ
+- エストニア
+- 愛沙尼亞
+- 爱沙尼亚
+- ꯑꯦꯁ꯭ꯇꯣꯅꯤꯌꯥ
+- 에스토니아
+- "\U00010330\U00010339\U00010343\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+has_id_wikidata: Q191
+member_of:
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[/_Standards/WikiData/WD~Baltic_Assembly,670356|WD~Baltic_Assembly,670356]]'
+- '[[/_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[/_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]'
+- '[[/_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[/_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]'
+- '[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[/_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[/_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424|WD~Strategic_Airlift_Capability,1579424]]'
+- '[[/_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]'
+- '[[/_Standards/WikiData/WD~Nordic_Battle_Group,1998131|WD~Nordic_Battle_Group,1998131]]'
+- '[[/_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[/_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]'
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~League_of_Nations,38130|WD~League_of_Nations,38130]]'
+- '[[/_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[/_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984|WD~International_Atomic_Energy_Agency,41984]]'
+- '[[/_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
+flag: '[[/_Standards/WikiData/WD~flag_of_Estonia,81471|WD~flag_of_Estonia,81471]]'
+replaces:
+- '[[/_Standards/WikiData/WD~Estonian_Soviet_Socialist_Republic,130280|WD~Estonian_Soviet_Socialist_Republic,130280]]'
+- '[[/_Standards/WikiData/WD~Estonia_Governorate,720496|WD~Estonia_Governorate,720496]]'
+- '[[/_Standards/WikiData/WD~Livonia_Governorate,1419584|WD~Livonia_Governorate,1419584]]'
+- '[[/_Standards/WikiData/WD~Pskov_Governorate,1458686|WD~Pskov_Governorate,1458686]]'
+- '[[/_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+coat_of_arms: '[[/_Standards/WikiData/WD~Coat_of_arms_of_Estonia,164845|WD~Coat_of_arms_of_Estonia,164845]]'
+anthem: '[[/_Standards/WikiData/WD~Mu_isamaa,_mu_õnn_ja_rõõm,166362|WD~Mu_isamaa,_mu_õnn_ja_rõõm,166362]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824|WD~country_bordering_the_Baltic_Sea,63791824]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+contains_the_administrative_territorial_entity:
+- '[[/_Standards/WikiData/WD~Harju_County,180200|WD~Harju_County,180200]]'
+- '[[/_Standards/WikiData/WD~Pärnu_County,185036|WD~Pärnu_County,185036]]'
+- '[[/_Standards/WikiData/WD~Järva_County,188068|WD~Järva_County,188068]]'
+- '[[/_Standards/WikiData/WD~Võru_County,188076|WD~Võru_County,188076]]'
+- '[[/_Standards/WikiData/WD~Lääne-Viru_County,189952|WD~Lääne-Viru_County,189952]]'
+- '[[/_Standards/WikiData/WD~Ida-Viru_County,189963|WD~Ida-Viru_County,189963]]'
+- '[[/_Standards/WikiData/WD~Lääne_County,189968|WD~Lääne_County,189968]]'
+- '[[/_Standards/WikiData/WD~Jõgeva_County,189974|WD~Jõgeva_County,189974]]'
+- '[[/_Standards/WikiData/WD~Põlva_County,191813|WD~Põlva_County,191813]]'
+- '[[/_Standards/WikiData/WD~Viljandi_County,192061|WD~Viljandi_County,192061]]'
+- '[[/_Standards/WikiData/WD~Rapla_County,192352|WD~Rapla_County,192352]]'
+- '[[/_Standards/WikiData/WD~Valga_County,192362|WD~Valga_County,192362]]'
+- '[[/_Standards/WikiData/WD~Tartu_County,192370|WD~Tartu_County,192370]]'
+- '[[/_Standards/WikiData/WD~Saare_County,203272|WD~Saare_County,203272]]'
+- '[[/_Standards/WikiData/WD~Hiiu_County,1466462|WD~Hiiu_County,1466462]]'
+legislative_body: '[[/_Standards/WikiData/WD~Riigikogu,217799|WD~Riigikogu,217799]]'
+different_from:
+- '[[/_Standards/WikiData/WD~Estonia,238967|WD~Estonia,238967]]'
+- '[[/_Standards/WikiData/WD~Eesti,5347148|WD~Eesti,5347148]]'
+central_bank: '[[/_Standards/WikiData/WD~Bank_of_Estonia,366960|WD~Bank_of_Estonia,366960]]'
+highest_point: '[[/_Standards/WikiData/WD~Suur_Munamägi,504991|WD~Suur_Munamägi,504991]]'
+culture: '[[/_Standards/WikiData/WD~culture_of_Estonia,604512|WD~culture_of_Estonia,604512]]'
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~Prime_Minister_of_Estonia,737115|WD~Prime_Minister_of_Estonia,737115]]'
+diplomatic_relation:
+- "[[/_Standards/WikiData/WD~Belarusian_People's_Republic,842199|WD~Belarusian_People's_Republic,842199]]"
+- '[[/_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[/_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[/_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[/_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[/_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+- '[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[/_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+described_by_source:
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Estonia,890005|WD~President_of_Estonia,890005]]'
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Estonia,949423|WD~history_of_Estonia,949423]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Estonia,1410778|WD~economy_of_Estonia,1410778]]'
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Estonia,1453203|WD~geography_of_Estonia,1453203]]'
+named_after:
+- '[[/_Standards/WikiData/WD~Virumaa,1503237|WD~Virumaa,1503237]]'
+- '[[/_Standards/WikiData/WD~Ugandi_County,2006684|WD~Ugandi_County,2006684]]'
+head_of_government: '[[/_Standards/WikiData/WD~Kristen_Michal,1789192|WD~Kristen_Michal,1789192]]'
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Estonia,2000306|WD~demographics_of_Estonia,2000306]]'
+executive_body: '[[/_Standards/WikiData/WD~Government_of_Estonia,2421589|WD~Government_of_Estonia,2421589]]'
+has_characteristic: '[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+language_used:
+- '[[/_Standards/WikiData/WD~Estonian_Sign_Language,3196221|WD~Estonian_Sign_Language,3196221]]'
+- '[[/_Standards/WikiData/WD~Standard_Estonian,12361545|WD~Standard_Estonian,12361545]]'
+- '[[/_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[/_Standards/WikiData/WD~Estonian,9072|WD~Estonian,9072]]'
+- '[[/_Standards/WikiData/WD~Võro,32762|WD~Võro,32762]]'
+- '[[/_Standards/WikiData/WD~Seto,34017|WD~Seto,34017]]'
+basic_form_of_government: '[[/_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Estonia_topics,6596946|WD~Template_Estonia_topics,6596946]]'
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Estonia,7112258|WD~outline_of_Estonia,7112258]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Estonia,8407597|WD~WikiProject_Estonia,8407597]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Estonia,10298138|WD~Portal_Estonia,10298138]]'
+head_of_state: '[[/_Standards/WikiData/WD~Alar_Karis,12358575|WD~Alar_Karis,12358575]]'
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+railway_traffic_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+significant_event: '[[/_Standards/WikiData/WD~Soviet_occupation_in_Estonia,15052924|WD~Soviet_occupation_in_Estonia,15052924]]'
+permanent_duplicated_item:
+- '[[/_Standards/WikiData/WD~Q17363906,17363906|WD~Q17363906,17363906]]'
+- '[[/_Standards/WikiData/WD~Q110738710,110738710|WD~Q110738710,110738710]]'
+- '[[/_Standards/WikiData/WD~Q122639347,122639347|WD~Q122639347,122639347]]'
+coordinates_of_northernmost_point: Point(26.37 59.82)
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~Eesti_1000,57005414|WD~Eesti_1000,57005414]]'
+category_for_honorary_citizens_of_entity: '[[/_Standards/WikiData/WD~Q61382698,61382698|WD~Q61382698,61382698]]'
+open_data_portal: '[[/_Standards/WikiData/WD~Open_Data_Portal_Estonia,97011195|WD~Open_Data_Portal_Estonia,97011195]]'
+Provenio_UUID: 62c98b8c-02e1-4f49-8363-2db6d422a1d4
+demonym:
+- Estonec
+- إسطوني
+- إسطونيات
+- إسطونية
+- إسطونيين
+- Eastónach
+- Este
+- Est
+- إستوني
+- إستونية
+- estoniana
+- estonianu
+- এস্তোনীয়
+- estonià
+- estoniana
+- ester
+- estlænder
+- Estin
+- estnisch
+- Εσθονή
+- Εσθονός
+- Estonienne
+- אסטוני
+- אסטונית
+- észt
+- Estoniano
+- estone
+- esti
+- estonian
+- estoniană
+- estonieni
+- эстонка
+- естонка
+- èstona
+- èstone
+- èstono
+- Lestiyänan
+- إستونيون
+- Εσθονοί
+- eestlased
+- virolaiset
+- Estonien
+- estoni
+- igauņi
+- эстонец
+- эстонки
+- эстонцы
+- естонець
+- естонці
+- èstoni
+- Estonian
+- Estonka
+ISNI: 121547281
+official_website: https://valitsus.ee/
+motto_text:
+- Stonia Epig
+- Epic Estonia
+part_of:
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[/_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[/_Standards/WikiData/WD~Baltic_states,39731|WD~Baltic_states,39731]]'
+lowest_point: '[[/_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+located_in_or_next_to_body_of_water:
+- '[[/_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+- '[[/_Standards/WikiData/WD~Lake_Peipus,19253|WD~Lake_Peipus,19253]]'
+capital: '[[/_Standards/WikiData/WD~Tallinn,1770|WD~Tallinn,1770]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+official_language: '[[/_Standards/WikiData/WD~Estonian,9072|WD~Estonian,9072]]'
+continent: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+birth_rate:
+- 10
+- 8.6
+- 9.9
+- 10.6
+VAT_rate:
+- 20
+- 9
+country: '[[/_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
+suicide_rate: 12
+death_rate:
+- 14
+- 11.6
+- 11.9
+- 12.8
+marriageable_age: 18
+age_of_majority: 18
+mains_voltage: 230
+unemployment_rate: 5.4
+retirement_age: 63
+BTI_Governance_Index:
+- 7.4
+- 7.02
+- 7.26
+- 7.33
+- 7.35
+- 7.37
+- 7.41
+- 7.44
+- 7.46
+Human_Development_Index: 0.89
+total_fertility_rate: 1.52
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ee,38908|WD~.ee,38908]]'
+Gini_coefficient: 30.8
+Happy_Planet_Index_score: 34.4
+mobile_country_code: 248
+UIC_numerical_country_code: 26
+maritime_identification_digits: 276
+Democracy_Index: 7.84
+Inequality_adjusted_Human_Development_Index: 0.829
+BTI_Status_Index:
+- 9.28
+- 9.29
+- 9.34
+- 9.42
+- 9.47
+- 9.49
+- 9.52
+- 9.54
+number_of_out_of_school_children: 5533
+IAB_code: 1290
+NUTS_code:
+- EE
+- EE0
+- EE00
+WIPO_ST_3: EE
+ISO_3166_1_alpha_2_code: EE
+Image_Archive_Herder_Institute: Q191
+Dewey_Decimal_Classification: 2--4798
+FIPS_10_4_countries_and_regions_: EN
+M49_code: 233
+ISO_3166_1_numeric_code: 233
+GS1_country_code: 474
+area: 45335
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg
+Unicode_character: "\U0001F1EA\U0001F1EA"
+hashtag: Estonia
+Commons_category: Estonia
+DPLA_subject_term: Estonia
+OmegaWiki_Defined_Meaning: 8003
+short_name:
+- Estonia
+- Эстония
+- Эстонія
+- Estland
+- Estija
+- Igaunija
+- Естонія
+- "\U0001F1EA\U0001F1EA"
+- Estonia
+- Eesti
+- Estland
+- Estland
+- Viro
+- Estland
+INSEE_countries_and_foreign_territories_code: 99106
+nominal_GDP: 38100812959
+rural_population:
+- 407066
+- 409107
+- 409926
+- 410662
+male_population:
+- 627427
+- 629878
+- 631228
+- 640385
+female_population:
+- 699471
+- 699645
+- 699703
+- 708455
+U_S_National_Archives_Identifier: 10045224
+BHCL_UUID:
+- 6834f2c6-60dd-4f3c-b6d6-20ce26400ee7
+- b2949b11-d3c4-4e02-999c-f70738ff1fcc
+UMLS_CUI: C0014908
+GitHub_topic:
+- eesti
+- estonia
+subreddit: eesti
+Commons_gallery: Eesti
+Facebook_username: eesti.ee
+Wolfram_Language_entity_code: Entity["Country", "Estonia"]
+Libris_URI: pm132kn72mgvch6
+Colon_Classification: SG--5975
+Krugosvet_article: strany_mira/ESTONIYA.html
+MeSH_tree_code: Z01.542.248.136.360
+Gujarati_Vishwakosh_entry: ઈસ્ટોનિયા
+official_name: Eesti Vabariik
+native_label: Eesti Vabariik
+name_in_native_language: Eesti Vabariik
+urban_population:
+- 916236
+- 920415
+- 923866
+- 938914
+population: 1374687
+CIVICUS_Monitor_country_entry: estonia
+coordinates_of_westernmost_point: Point(21.76433444 58.32290042)
+nominal_GDP_per_capita: 23757.62
+IOC_country_code: EST
+ITU_letter_code: EST
+UIC_alphabetical_country_code: EST
+licence_plate_code: EST
+ISO_3166_1_alpha_3_code: EST
+PM20_geo_code: A60
+life_expectancy: 77.73659
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Estonia.svg
+coordinate_location: Point(26.0 59.0)
+coordinates_of_easternmost_point: Point(28.20894778 59.37047831)
+geoshape: http://commons.wikimedia.org/data/main/Data:Estonia.map
+WOEID: 23424805
+Gregorian_calendar_start_date: 1918-03-01
+inception: 1918-02-24
+has_time_started: 1918-02-24
+coordinates_of_southernmost_point: Point(26.6165632 57.50931687)
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Estonia.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Karksi%20banner.jpg
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Estland.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Estonia.wav
+country_calling_code: 372
+location:
+- 59.4167
+- 24.75
+type: Country
+tags:
+- geo/Country
+SpocWebEntityId: 26885
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+- Country
+publish: true
+title: Estonia
+linkTitle: ''
+keywords: ''
+layout: ''
+draft: false
+publishDate: ''
+expiryDate: ''
+Languages:
+- et
+- ru
+icon: flag-ee
 ---
 
+# [[Estonia]] 🇪🇪 
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+## #has_/properties 
 
-Telephone = `=this.dv_Telephone` 
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Estonia ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
+Telephone = `=this.dv_Telephone`
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` ] 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+name = `=this.dv_has_name`
+[	has_name_en	 :: Estonia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Estonia/ReadMe|ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Estonia
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Estonia//
+markerFolder: ./Estonia//
+coordinates: [[Estonia]] 
+markerFile: [[Estonia]] 
+defaultZoom: 5 
 ```
 
-[has_name_en::Estonia] 
-has_name_de = `=this.dv_has_name_de` 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
+### #has_map_/topologic 
+
+```leaflet
+id: Estonia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Estonia//
+markerFolder: ./Estonia/
+coordinates: [[Estonia]] 
+markerFile: [[Estonia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Estonia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Coat_of_arms_of_Estonia.svg|350]] 
-![[Anthem-Estonia.mp3]] 
-![[Flag_of_Estonia.svg|350]] 
-Alcohol-l = `=this.dv_Alcohol-l` 
-[Language-Id::] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+![[Coat_of_arms_of_Estonia.svg|350]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Estonia.mp3|Anthem-Estonia.mp3]]
+![[Flag_of_Estonia.svg|350]]
+Alcohol-l = `=this.dv_Alcohol-l`
+[Language-Id::]
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Estonia**, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi). Tallinn and Tartu are the two largest urban areas. The Estonian language is the official language and the first language of the majority of the population of 1.4 million.
+>
+> Present-day Estonia has been inhabited by humans since at least 9,000 BC. The medieval indigenous population of Estonia was one of the last pagan civilisations in Europe to adopt Christianity following the Northern Crusades in the 13th century. The distinct Estonian national identity, surviving more than six centuries of rule by the Teutonic Order, Denmark, Sweden, Poland–Lithuania and the Russian Empire, gained new momentum with the Estonian national awakening in the mid-19th century. This culminated in the 1918 Estonian Declaration of Independence from the then-warring Russian and German empires. Democratic throughout most of the interwar period, Estonia declared neutrality at the outbreak of World War II, but the country was repeatedly contested, invaded, and occupied, first by the Soviet Union in 1940, then Nazi Germany in 1941, and ultimately reoccupied in 1944 by, and annexed into, the USSR as an administrative subunit (Estonian SSR). Throughout the 1944–91 Soviet occupation, Estonia's de jure state continuity was preserved by diplomatic representatives and the government-in-exile. Following the 1988–90  "Singing Revolution" against Soviet rule, the nation's full independence was restored on 20 August 1991.
+>
+> Estonia is a developed country with a high-income advanced economy and a member of the Eurozone. It is a democratic unitary parliamentary republic, administratively subdivided into 15 maakond (counties). With a population of 1.37 million, it is one of the least populous members of the European Union and NATO. Estonia is among the least corrupt countries in the world and has the lowest level of corruption among the former Soviet Union states. Estonia has consistently ranked highly in international rankings for quality of life, education, press freedom, digitalisation of public services and the prevalence of technology companies.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Estonia) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect|Estonia.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Estonia.private|Estonia.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]] 
 
