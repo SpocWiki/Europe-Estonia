@@ -355,7 +355,7 @@ dv_UNTERM_Chinese_Formal: 爱沙尼亚共和国
 dv_UNTERM_French_Formal: la République d'Estonie
 dv_UNTERM_Russian: Эстония
 dv_UNTERM_Russian_Formal: Эстонская Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Estonia]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -380,7 +380,7 @@ dv_ISO2: EE
 dv_ISO3: EST
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
+  - '[[../../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]]'
@@ -391,17 +391,17 @@ dv_is_:
 dv_has_name_de: Estland
 dv_Area-Total: 45227
 dv_Area-Land: 42270
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: EST
-dv_Capital: '[[Estonia/Counties~Estonia/Harju/City/Tallinn|Tallinn]]'
+dv_Capital: '[[Counties~Estonia/Harju/City/Tallinn|Tallinn]]'
 dv_Alcohol-l: 15.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.75
 dv_has_place_latitude: 59.4167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Estonia
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
+- '[[../../../../../WikiData/WD~Estonia,191|WD~Estonia,191]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]]'
@@ -566,7 +566,7 @@ aliases:
 - "\U00010330\U00010339\U00010343\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q191
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
 - '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
@@ -1042,7 +1042,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Estonia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1062,7 +1062,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Estonia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1088,7 +1088,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Estonia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Estonia.mp3|Anthem-Estonia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Estonia.mp3|Anthem-Estonia.mp3]]
 ![[Flag_of_Estonia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
